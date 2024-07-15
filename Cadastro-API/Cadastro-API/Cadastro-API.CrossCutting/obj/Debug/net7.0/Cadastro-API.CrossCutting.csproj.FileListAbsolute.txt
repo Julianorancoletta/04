@@ -1,0 +1,17 @@
+C:\repositorio\FIAP\Fase1\4Mensageria\Cadastro-API\Cadastro-API.CrossCutting\bin\Debug\net7.0\Cadastro-API.CrossCutting.deps.json
+C:\repositorio\FIAP\Fase1\4Mensageria\Cadastro-API\Cadastro-API.CrossCutting\bin\Debug\net7.0\Cadastro-API.CrossCutting.dll
+C:\repositorio\FIAP\Fase1\4Mensageria\Cadastro-API\Cadastro-API.CrossCutting\bin\Debug\net7.0\Cadastro-API.CrossCutting.pdb
+C:\repositorio\FIAP\Fase1\4Mensageria\Cadastro-API\Cadastro-API.CrossCutting\bin\Debug\net7.0\Cadastro-API.Core.dll
+C:\repositorio\FIAP\Fase1\4Mensageria\Cadastro-API\Cadastro-API.CrossCutting\bin\Debug\net7.0\Cadastro-API.Data.dll
+C:\repositorio\FIAP\Fase1\4Mensageria\Cadastro-API\Cadastro-API.CrossCutting\bin\Debug\net7.0\Cadastro-API.Core.pdb
+C:\repositorio\FIAP\Fase1\4Mensageria\Cadastro-API\Cadastro-API.CrossCutting\bin\Debug\net7.0\Cadastro-API.Data.pdb
+C:\repositorio\FIAP\Fase1\4Mensageria\Cadastro-API\Cadastro-API.CrossCutting\obj\Debug\net7.0\Cadastro-API.CrossCutting.csproj.AssemblyReference.cache
+C:\repositorio\FIAP\Fase1\4Mensageria\Cadastro-API\Cadastro-API.CrossCutting\obj\Debug\net7.0\Cadastro-API.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\repositorio\FIAP\Fase1\4Mensageria\Cadastro-API\Cadastro-API.CrossCutting\obj\Debug\net7.0\Cadastro-API.CrossCutting.AssemblyInfoInputs.cache
+C:\repositorio\FIAP\Fase1\4Mensageria\Cadastro-API\Cadastro-API.CrossCutting\obj\Debug\net7.0\Cadastro-API.CrossCutting.AssemblyInfo.cs
+C:\repositorio\FIAP\Fase1\4Mensageria\Cadastro-API\Cadastro-API.CrossCutting\obj\Debug\net7.0\Cadastro-API.CrossCutting.csproj.CoreCompileInputs.cache
+C:\repositorio\FIAP\Fase1\4Mensageria\Cadastro-API\Cadastro-API.CrossCutting\obj\Debug\net7.0\Cadastro-API.CrossCutting.csproj.CopyComplete
+C:\repositorio\FIAP\Fase1\4Mensageria\Cadastro-API\Cadastro-API.CrossCutting\obj\Debug\net7.0\Cadastro-API.CrossCutting.dll
+C:\repositorio\FIAP\Fase1\4Mensageria\Cadastro-API\Cadastro-API.CrossCutting\obj\Debug\net7.0\refint\Cadastro-API.CrossCutting.dll
+C:\repositorio\FIAP\Fase1\4Mensageria\Cadastro-API\Cadastro-API.CrossCutting\obj\Debug\net7.0\Cadastro-API.CrossCutting.pdb
+C:\repositorio\FIAP\Fase1\4Mensageria\Cadastro-API\Cadastro-API.CrossCutting\obj\Debug\net7.0\ref\Cadastro-API.CrossCutting.dll

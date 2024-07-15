@@ -1,0 +1,1469 @@
+[23:58:23 Microsoft.Extensions.Hosting.Internal.Host [Debug] Hosting starting
+[23:58:23  [Information] Worker ativo em: 2023-12-28 23:58:23
+[23:58:23 Microsoft.Hosting.Lifetime [Information] Application started. Press Ctrl+C to shut down.
+[23:58:23 Microsoft.Hosting.Lifetime [Information] Hosting environment: "Development"
+[23:58:23 Microsoft.Hosting.Lifetime [Information] Content root path: "D:\Projects\Delivery.Email\Delivery.Email"
+[23:58:23 Microsoft.Extensions.Hosting.Internal.Host [Debug] Hosting started
+[23:58:23  [Information] Worker ativo em: 2023-12-28 23:58:23
+[23:58:23  [Information] Worker ativo em: 2023-12-28 23:58:23
+[23:58:23  [Information] Worker ativo em: 2023-12-28 23:58:23
+[23:58:23  [Information] Worker ativo em: 2023-12-28 23:58:23
+[23:58:23  [Information] Worker ativo em: 2023-12-28 23:58:23
+[23:58:23  [Information] Worker ativo em: 2023-12-28 23:58:23
+[23:58:23  [Information] Worker ativo em: 2023-12-28 23:58:23
+[23:58:23  [Information] Worker ativo em: 2023-12-28 23:58:23
+[23:58:23  [Information] Worker ativo em: 2023-12-28 23:58:23
+[23:58:23  [Information] Worker ativo em: 2023-12-28 23:58:23
+[23:58:23  [Information] Worker ativo em: 2023-12-28 23:58:23
+[23:58:23  [Information] Worker ativo em: 2023-12-28 23:58:23
+[23:58:23  [Information] Worker ativo em: 2023-12-28 23:58:23
+[23:58:23  [Information] Worker ativo em: 2023-12-28 23:58:23
+[23:58:23  [Information] Worker ativo em: 2023-12-28 23:58:23
+[23:58:23  [Information] Worker ativo em: 2023-12-28 23:58:23
+[23:58:23  [Information] Worker ativo em: 2023-12-28 23:58:23
+[23:58:23  [Information] Worker ativo em: 2023-12-28 23:58:23
+[23:58:23  [Information] Worker ativo em: 2023-12-28 23:58:23
+[23:58:23  [Information] Worker ativo em: 2023-12-28 23:58:23
+[23:58:23  [Information] Worker ativo em: 2023-12-28 23:58:23
+[23:58:23  [Information] Worker ativo em: 2023-12-28 23:58:23
+[23:58:23  [Information] Worker ativo em: 2023-12-28 23:58:23
+[23:58:23  [Information] Worker ativo em: 2023-12-28 23:58:23
+[23:58:23  [Information] Worker ativo em: 2023-12-28 23:58:23
+[23:58:23  [Information] Worker ativo em: 2023-12-28 23:58:23
+[23:58:23  [Information] Worker ativo em: 2023-12-28 23:58:23
+[23:58:23  [Information] Worker ativo em: 2023-12-28 23:58:23
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:24  [Information] Worker ativo em: 2023-12-28 23:58:24
+[23:58:25  [Information] Worker ativo em: 2023-12-28 23:58:25
+[23:58:25  [Information] Worker ativo em: 2023-12-28 23:58:25
+[23:58:25  [Information] Worker ativo em: 2023-12-28 23:58:25
+[23:58:25  [Information] Worker ativo em: 2023-12-28 23:58:25
+[23:58:25  [Information] Worker ativo em: 2023-12-28 23:58:25
+[23:58:25  [Information] Worker ativo em: 2023-12-28 23:58:25
+[23:58:25  [Information] Worker ativo em: 2023-12-28 23:58:25
+[23:58:25  [Information] Worker ativo em: 2023-12-28 23:58:25
+[23:58:25  [Information] Worker ativo em: 2023-12-28 23:58:25
+[23:58:25  [Information] Worker ativo em: 2023-12-28 23:58:25
+[23:58:25  [Information] Worker ativo em: 2023-12-28 23:58:25
+[23:58:25  [Information] Worker ativo em: 2023-12-28 23:58:25
+[23:58:25  [Information] Worker ativo em: 2023-12-28 23:58:25
+[23:58:25  [Information] Worker ativo em: 2023-12-28 23:58:25
+[23:58:25  [Information] Worker ativo em: 2023-12-28 23:58:25
+[23:58:25  [Information] Worker ativo em: 2023-12-28 23:58:25
+[23:58:25  [Information] Worker ativo em: 2023-12-28 23:58:25
+[23:58:25  [Information] Worker ativo em: 2023-12-28 23:58:25
+[23:58:25  [Information] Worker ativo em: 2023-12-28 23:58:25
+[23:58:25  [Information] Worker ativo em: 2023-12-28 23:58:25
+[23:58:25  [Information] Worker ativo em: 2023-12-28 23:58:25
+[23:58:25  [Information] Worker ativo em: 2023-12-28 23:58:25
+[23:58:25  [Information] Worker ativo em: 2023-12-28 23:58:25
+[23:58:25  [Information] Worker ativo em: 2023-12-28 23:58:25
+[23:58:25  [Information] Worker ativo em: 2023-12-28 23:58:25
+[23:58:33  [Information] Worker ativo em: 2023-12-28 23:58:33
+[23:58:33 Microsoft.Hosting.Lifetime [Information] Application started. Press Ctrl+C to shut down.
+[23:58:33 Microsoft.Hosting.Lifetime [Information] Hosting environment: "Development"
+[23:58:33 Microsoft.Hosting.Lifetime [Information] Content root path: "D:\Projects\Delivery.Email\Delivery.Email"
+[23:58:33  [Information] Worker ativo em: 2023-12-28 23:58:33
+[23:58:33  [Information] Worker ativo em: 2023-12-28 23:58:33
+[23:58:33  [Information] Worker ativo em: 2023-12-28 23:58:33
+[23:58:33  [Information] Worker ativo em: 2023-12-28 23:58:33
+[23:58:33  [Information] Worker ativo em: 2023-12-28 23:58:33
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:34  [Information] Worker ativo em: 2023-12-28 23:58:34
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:35  [Information] Worker ativo em: 2023-12-28 23:58:35
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:36  [Information] Worker ativo em: 2023-12-28 23:58:36
+[23:58:37  [Information] Worker ativo em: 2023-12-28 23:58:37
+[23:58:37  [Information] Worker ativo em: 2023-12-28 23:58:37
+[23:58:37  [Information] Worker ativo em: 2023-12-28 23:58:37
+[23:58:37  [Information] Worker ativo em: 2023-12-28 23:58:37
+[23:58:37  [Information] Worker ativo em: 2023-12-28 23:58:37
+[23:58:37  [Information] Worker ativo em: 2023-12-28 23:58:37
+[23:58:37  [Information] Worker ativo em: 2023-12-28 23:58:37
+[23:58:37  [Information] Worker ativo em: 2023-12-28 23:58:37
+[23:58:37  [Information] Worker ativo em: 2023-12-28 23:58:37
+[23:58:37  [Information] Worker ativo em: 2023-12-28 23:58:37
+[23:58:37  [Information] Worker ativo em: 2023-12-28 23:58:37
+[23:58:37  [Information] Worker ativo em: 2023-12-28 23:58:37
+[23:58:37  [Information] Worker ativo em: 2023-12-28 23:58:37
+[23:58:37  [Information] Worker ativo em: 2023-12-28 23:58:37
+[23:58:37  [Information] Worker ativo em: 2023-12-28 23:58:37
+[23:58:37  [Information] Worker ativo em: 2023-12-28 23:58:37
+[23:58:37  [Information] Worker ativo em: 2023-12-28 23:58:37
+[23:58:37  [Information] Worker ativo em: 2023-12-28 23:58:37
+[23:58:37  [Information] Worker ativo em: 2023-12-28 23:58:37
+[23:58:37  [Information] Worker ativo em: 2023-12-28 23:58:37
+[23:58:37  [Information] Worker ativo em: 2023-12-28 23:58:37
+[23:58:37  [Information] Worker ativo em: 2023-12-28 23:58:37
+[23:58:37  [Information] Worker ativo em: 2023-12-28 23:58:37
+[23:58:37  [Information] Worker ativo em: 2023-12-28 23:58:37
+[23:58:37  [Information] Worker ativo em: 2023-12-28 23:58:37
+[23:58:37  [Information] Worker ativo em: 2023-12-28 23:58:37
+[23:58:37  [Information] Worker ativo em: 2023-12-28 23:58:37
+[23:58:37  [Information] Worker ativo em: 2023-12-28 23:58:37
+[23:58:37  [Information] Worker ativo em: 2023-12-28 23:58:37
+[23:58:37  [Information] Worker ativo em: 2023-12-28 23:58:37
+[23:58:37  [Information] Worker ativo em: 2023-12-28 23:58:37
+[23:58:37  [Information] Worker ativo em: 2023-12-28 23:58:37
+[23:58:37  [Information] Worker ativo em: 2023-12-28 23:58:37
+[23:58:37  [Information] Worker ativo em: 2023-12-28 23:58:37
+[23:58:37  [Information] Worker ativo em: 2023-12-28 23:58:37
+[23:58:37  [Information] Worker ativo em: 2023-12-28 23:58:37
+[23:58:37  [Information] Worker ativo em: 2023-12-28 23:58:37
+[23:58:37  [Information] Worker ativo em: 2023-12-28 23:58:37
+[23:58:37  [Information] Worker ativo em: 2023-12-28 23:58:37
+[23:58:37  [Information] Worker ativo em: 2023-12-28 23:58:37
+[23:58:37  [Information] Worker ativo em: 2023-12-28 23:58:37
+[23:58:37  [Information] Worker ativo em: 2023-12-28 23:58:37
+[23:59:32  [Information] Worker ativo em: 2023-12-28 23:59:32
+[23:59:32 Microsoft.Hosting.Lifetime [Information] Application started. Press Ctrl+C to shut down.
+[23:59:32 Microsoft.Hosting.Lifetime [Information] Hosting environment: "Development"
+[23:59:32 Microsoft.Hosting.Lifetime [Information] Content root path: "D:\Projects\Delivery.Email\Delivery.Email"
+[23:59:32  [Information] Worker ativo em: 2023-12-28 23:59:32
+[23:59:32  [Information] Worker ativo em: 2023-12-28 23:59:32
+[23:59:32  [Information] Worker ativo em: 2023-12-28 23:59:32
+[23:59:32  [Information] Worker ativo em: 2023-12-28 23:59:32
+[23:59:32  [Information] Worker ativo em: 2023-12-28 23:59:32
+[23:59:32  [Information] Worker ativo em: 2023-12-28 23:59:32
+[23:59:32  [Information] Worker ativo em: 2023-12-28 23:59:32
+[23:59:32  [Information] Worker ativo em: 2023-12-28 23:59:32
+[23:59:32  [Information] Worker ativo em: 2023-12-28 23:59:32
+[23:59:32  [Information] Worker ativo em: 2023-12-28 23:59:32
+[23:59:32  [Information] Worker ativo em: 2023-12-28 23:59:32
+[23:59:32  [Information] Worker ativo em: 2023-12-28 23:59:32
+[23:59:32  [Information] Worker ativo em: 2023-12-28 23:59:32
+[23:59:32  [Information] Worker ativo em: 2023-12-28 23:59:32
+[23:59:32  [Information] Worker ativo em: 2023-12-28 23:59:32
+[23:59:32  [Information] Worker ativo em: 2023-12-28 23:59:32
+[23:59:32  [Information] Worker ativo em: 2023-12-28 23:59:32
+[23:59:32  [Information] Worker ativo em: 2023-12-28 23:59:32
+[23:59:32  [Information] Worker ativo em: 2023-12-28 23:59:32
+[23:59:32  [Information] Worker ativo em: 2023-12-28 23:59:32
+[23:59:32  [Information] Worker ativo em: 2023-12-28 23:59:32
+[23:59:32  [Information] Worker ativo em: 2023-12-28 23:59:32
+[23:59:32  [Information] Worker ativo em: 2023-12-28 23:59:32
+[23:59:32  [Information] Worker ativo em: 2023-12-28 23:59:32
+[23:59:32  [Information] Worker ativo em: 2023-12-28 23:59:32
+[23:59:32  [Information] Worker ativo em: 2023-12-28 23:59:32
+[23:59:32  [Information] Worker ativo em: 2023-12-28 23:59:32
+[23:59:32  [Information] Worker ativo em: 2023-12-28 23:59:32
+[23:59:32  [Information] Worker ativo em: 2023-12-28 23:59:32
+[23:59:32  [Information] Worker ativo em: 2023-12-28 23:59:32
+[23:59:32  [Information] Worker ativo em: 2023-12-28 23:59:32
+[23:59:32  [Information] Worker ativo em: 2023-12-28 23:59:32
+[23:59:32  [Information] Worker ativo em: 2023-12-28 23:59:32
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:33  [Information] Worker ativo em: 2023-12-28 23:59:33
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:34  [Information] Worker ativo em: 2023-12-28 23:59:34
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:35  [Information] Worker ativo em: 2023-12-28 23:59:35
+[23:59:36  [Information] Worker ativo em: 2023-12-28 23:59:36
+[23:59:36  [Information] Worker ativo em: 2023-12-28 23:59:36
+[23:59:36  [Information] Worker ativo em: 2023-12-28 23:59:36
+[23:59:36  [Information] Worker ativo em: 2023-12-28 23:59:36
+[23:59:36  [Information] Worker ativo em: 2023-12-28 23:59:36
+[23:59:36  [Information] Worker ativo em: 2023-12-28 23:59:36
+[23:59:36  [Information] Worker ativo em: 2023-12-28 23:59:36
+[23:59:36  [Information] Worker ativo em: 2023-12-28 23:59:36
+[23:59:36  [Information] Worker ativo em: 2023-12-28 23:59:36
+[23:59:36  [Information] Worker ativo em: 2023-12-28 23:59:36
+[23:59:36  [Information] Worker ativo em: 2023-12-28 23:59:36
+[23:59:36  [Information] Worker ativo em: 2023-12-28 23:59:36
+[23:59:36  [Information] Worker ativo em: 2023-12-28 23:59:36
+[23:59:36  [Information] Worker ativo em: 2023-12-28 23:59:36
+[23:59:36  [Information] Worker ativo em: 2023-12-28 23:59:36
+[23:59:36  [Information] Worker ativo em: 2023-12-28 23:59:36
+[23:59:36  [Information] Worker ativo em: 2023-12-28 23:59:36
+[23:59:36  [Information] Worker ativo em: 2023-12-28 23:59:36
+[23:59:36  [Information] Worker ativo em: 2023-12-28 23:59:36
+[23:59:36  [Information] Worker ativo em: 2023-12-28 23:59:36
+[23:59:36  [Information] Worker ativo em: 2023-12-28 23:59:36
+[23:59:36  [Information] Worker ativo em: 2023-12-28 23:59:36
+[23:59:36  [Information] Worker ativo em: 2023-12-28 23:59:36
+[23:59:36  [Information] Worker ativo em: 2023-12-28 23:59:36
+[23:59:36  [Information] Worker ativo em: 2023-12-28 23:59:36
+[23:59:36  [Information] Worker ativo em: 2023-12-28 23:59:36
+[23:59:36  [Information] Worker ativo em: 2023-12-28 23:59:36
+[23:59:36  [Information] Worker ativo em: 2023-12-28 23:59:36
+[23:59:36  [Information] Worker ativo em: 2023-12-28 23:59:36
+[23:59:36  [Information] Worker ativo em: 2023-12-28 23:59:36
+[23:59:36  [Information] Worker ativo em: 2023-12-28 23:59:36
+[23:59:36  [Information] Worker ativo em: 2023-12-28 23:59:36
+[23:59:36  [Information] Worker ativo em: 2023-12-28 23:59:36
+[23:59:36  [Information] Worker ativo em: 2023-12-28 23:59:36
+[23:59:36  [Information] Worker ativo em: 2023-12-28 23:59:36
+[23:59:36  [Information] Worker ativo em: 2023-12-28 23:59:36
+[23:59:36  [Information] Worker ativo em: 2023-12-28 23:59:36
+[23:59:36  [Information] Worker ativo em: 2023-12-28 23:59:36
+[23:59:36  [Information] Worker ativo em: 2023-12-28 23:59:36
+[23:59:36  [Information] Worker ativo em: 2023-12-28 23:59:36
+[23:59:36  [Information] Worker ativo em: 2023-12-28 23:59:36
+[23:59:36  [Information] Worker ativo em: 2023-12-28 23:59:36
+[23:59:36  [Information] Worker ativo em: 2023-12-28 23:59:36
+[23:59:36  [Information] Worker ativo em: 2023-12-28 23:59:36
+[23:59:36  [Information] Worker ativo em: 2023-12-28 23:59:36
+[23:59:47 Information] Worker ativo em: 2023-12-28 23:59:47
+[23:59:47 Information] Application started. Press Ctrl+C to shut down.
+[23:59:47 Information] Hosting environment: "Development"
+[23:59:47 Information] Content root path: "D:\Projects\Delivery.Email\Delivery.Email"
+[23:59:47 Information] Worker ativo em: 2023-12-28 23:59:47
+[23:59:47 Information] Worker ativo em: 2023-12-28 23:59:47
+[23:59:47 Information] Worker ativo em: 2023-12-28 23:59:47
+[23:59:47 Information] Worker ativo em: 2023-12-28 23:59:47
+[23:59:47 Information] Worker ativo em: 2023-12-28 23:59:47
+[23:59:47 Information] Worker ativo em: 2023-12-28 23:59:47
+[23:59:47 Information] Worker ativo em: 2023-12-28 23:59:47
+[23:59:47 Information] Worker ativo em: 2023-12-28 23:59:47
+[23:59:47 Information] Worker ativo em: 2023-12-28 23:59:47
+[23:59:47 Information] Worker ativo em: 2023-12-28 23:59:47
+[23:59:47 Information] Worker ativo em: 2023-12-28 23:59:47
+[23:59:47 Information] Worker ativo em: 2023-12-28 23:59:47
+[23:59:47 Information] Worker ativo em: 2023-12-28 23:59:47
+[23:59:47 Information] Worker ativo em: 2023-12-28 23:59:47
+[23:59:47 Information] Worker ativo em: 2023-12-28 23:59:47
+[23:59:47 Information] Worker ativo em: 2023-12-28 23:59:47
+[23:59:47 Information] Worker ativo em: 2023-12-28 23:59:47
+[23:59:47 Information] Worker ativo em: 2023-12-28 23:59:47
+[23:59:47 Information] Worker ativo em: 2023-12-28 23:59:47
+[23:59:47 Information] Worker ativo em: 2023-12-28 23:59:47
+[23:59:47 Information] Worker ativo em: 2023-12-28 23:59:47
+[23:59:47 Information] Worker ativo em: 2023-12-28 23:59:47
+[23:59:47 Information] Worker ativo em: 2023-12-28 23:59:47
+[23:59:47 Information] Worker ativo em: 2023-12-28 23:59:47
+[23:59:47 Information] Worker ativo em: 2023-12-28 23:59:47
+[23:59:47 Information] Worker ativo em: 2023-12-28 23:59:47
+[23:59:47 Information] Worker ativo em: 2023-12-28 23:59:47
+[23:59:47 Information] Worker ativo em: 2023-12-28 23:59:47
+[23:59:47 Information] Worker ativo em: 2023-12-28 23:59:47
+[23:59:47 Information] Worker ativo em: 2023-12-28 23:59:47
+[23:59:47 Information] Worker ativo em: 2023-12-28 23:59:47
+[23:59:47 Information] Worker ativo em: 2023-12-28 23:59:47
+[23:59:47 Information] Worker ativo em: 2023-12-28 23:59:47
+[23:59:47 Information] Worker ativo em: 2023-12-28 23:59:47
+[23:59:47 Information] Worker ativo em: 2023-12-28 23:59:47
+[23:59:47 Information] Worker ativo em: 2023-12-28 23:59:47
+[23:59:47 Information] Worker ativo em: 2023-12-28 23:59:47
+[23:59:47 Information] Worker ativo em: 2023-12-28 23:59:47
+[23:59:47 Information] Worker ativo em: 2023-12-28 23:59:47
+[23:59:47 Information] Worker ativo em: 2023-12-28 23:59:47
+[23:59:47 Information] Worker ativo em: 2023-12-28 23:59:47
+[23:59:47 Information] Worker ativo em: 2023-12-28 23:59:47
+[23:59:47 Information] Worker ativo em: 2023-12-28 23:59:47
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:48 Information] Worker ativo em: 2023-12-28 23:59:48
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:49 Information] Worker ativo em: 2023-12-28 23:59:49
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:50 Information] Worker ativo em: 2023-12-28 23:59:50
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:51 Information] Worker ativo em: 2023-12-28 23:59:51
+[23:59:52 Information] Worker ativo em: 2023-12-28 23:59:52
+[23:59:52 Information] Worker ativo em: 2023-12-28 23:59:52
+[23:59:52 Information] Worker ativo em: 2023-12-28 23:59:52
+[23:59:52 Information] Worker ativo em: 2023-12-28 23:59:52
+[23:59:52 Information] Worker ativo em: 2023-12-28 23:59:52
+[23:59:52 Information] Worker ativo em: 2023-12-28 23:59:52
+[23:59:52 Information] Worker ativo em: 2023-12-28 23:59:52
+[23:59:52 Information] Worker ativo em: 2023-12-28 23:59:52
+[23:59:52 Information] Worker ativo em: 2023-12-28 23:59:52
+[23:59:52 Information] Worker ativo em: 2023-12-28 23:59:52
+[23:59:52 Information] Worker ativo em: 2023-12-28 23:59:52
+[23:59:52 Information] Worker ativo em: 2023-12-28 23:59:52
+[23:59:52 Information] Worker ativo em: 2023-12-28 23:59:52
+[23:59:52 Information] Worker ativo em: 2023-12-28 23:59:52
+[23:59:52 Information] Worker ativo em: 2023-12-28 23:59:52
+[23:59:52 Information] Worker ativo em: 2023-12-28 23:59:52
+[23:59:52 Information] Worker ativo em: 2023-12-28 23:59:52
+[23:59:52 Information] Worker ativo em: 2023-12-28 23:59:52
+[23:59:52 Information] Worker ativo em: 2023-12-28 23:59:52
+[23:59:52 Information] Worker ativo em: 2023-12-28 23:59:52
+[23:59:52 Information] Worker ativo em: 2023-12-28 23:59:52
+[23:59:52 Information] Worker ativo em: 2023-12-28 23:59:52
+[23:59:52 Information] Worker ativo em: 2023-12-28 23:59:52
+[23:59:52 Information] Worker ativo em: 2023-12-28 23:59:52
+[23:59:52 Information] Worker ativo em: 2023-12-28 23:59:52
+[23:59:52 Information] Worker ativo em: 2023-12-28 23:59:52
+[23:59:52 Information] Worker ativo em: 2023-12-28 23:59:52
+[00:23:30 Information] Application started. Press Ctrl+C to shut down.
+[00:23:30 Information] Hosting environment: "Development"
+[00:23:30 Information] Content root path: "D:\Projects\Delivery.Email\Delivery.Email"
+[00:23:59 Error] BackgroundService failed
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.IO.IOException: connection.start was never received, likely due to a network timeout
+ ---> System.IO.EndOfStreamException: Reached the end of the stream. Possible authentication failure.
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFrom(Stream reader, Byte[] frameHeaderBuffer, ArrayPool`1 pool, UInt32 maxMessageSize)
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoop()
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Framing.Impl.Connection.StartAndTune()
+   at RabbitMQ.Client.Framing.Impl.Connection..ctor(IConnectionFactory factory, Boolean insist, IFrameHandler frameHandler, String clientProvidedName)
+   at RabbitMQ.Client.Framing.Impl.AutorecoveringConnection.Init(IFrameHandler fh)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at Delivery.Email.Worker.Application.RabbitConnect.TryConnect() in D:\Projects\Delivery.Email\Delivery.Email\Application\RabbitConnect.cs:line 29
+   at Delivery.Email.Worker.Application.MessageBus.QueueDeclare() in D:\Projects\Delivery.Email\Delivery.Email\Application\MessageBus.cs:line 26
+   at Delivery.Email.Worker.Application.MessageBus.Consumer() in D:\Projects\Delivery.Email\Delivery.Email\Application\MessageBus.cs:line 38
+   at Delivery.Email.Worker.Worker.ExecuteAsync(CancellationToken stoppingToken) in D:\Projects\Delivery.Email\Delivery.Email\Worker.cs:line 30
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+[00:23:59 Fatal] The HostOptions.BackgroundServiceExceptionBehavior is configured to StopHost. A BackgroundService has thrown an unhandled exception, and the IHost instance is stopping. To avoid this behavior, configure this to Ignore; however the BackgroundService will not be restarted.
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.IO.IOException: connection.start was never received, likely due to a network timeout
+ ---> System.IO.EndOfStreamException: Reached the end of the stream. Possible authentication failure.
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFrom(Stream reader, Byte[] frameHeaderBuffer, ArrayPool`1 pool, UInt32 maxMessageSize)
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoop()
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Framing.Impl.Connection.StartAndTune()
+   at RabbitMQ.Client.Framing.Impl.Connection..ctor(IConnectionFactory factory, Boolean insist, IFrameHandler frameHandler, String clientProvidedName)
+   at RabbitMQ.Client.Framing.Impl.AutorecoveringConnection.Init(IFrameHandler fh)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at Delivery.Email.Worker.Application.RabbitConnect.TryConnect() in D:\Projects\Delivery.Email\Delivery.Email\Application\RabbitConnect.cs:line 29
+   at Delivery.Email.Worker.Application.MessageBus.QueueDeclare() in D:\Projects\Delivery.Email\Delivery.Email\Application\MessageBus.cs:line 26
+   at Delivery.Email.Worker.Application.MessageBus.Consumer() in D:\Projects\Delivery.Email\Delivery.Email\Application\MessageBus.cs:line 38
+   at Delivery.Email.Worker.Worker.ExecuteAsync(CancellationToken stoppingToken) in D:\Projects\Delivery.Email\Delivery.Email\Worker.cs:line 30
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+[00:23:59 Information] Application is shutting down...
+[00:24:43 Error] Hosting failed to start
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.IO.IOException: connection.start was never received, likely due to a network timeout
+ ---> System.Net.Sockets.SocketException (10060): Uma tentativa de conexão falhou porque o componente conectado não respondeu
+corretamente após um período de tempo ou a conexão estabelecida falhou
+porque o host conectado não respondeu.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+--- End of stack trace from previous location ---
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFrom(Stream reader, Byte[] frameHeaderBuffer, ArrayPool`1 pool, UInt32 maxMessageSize)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ReadFrame()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoop()
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Framing.Impl.Connection.StartAndTune()
+   at RabbitMQ.Client.Framing.Impl.Connection.Open(Boolean insist)
+   at RabbitMQ.Client.Framing.Impl.Connection..ctor(IConnectionFactory factory, Boolean insist, IFrameHandler frameHandler, String clientProvidedName)
+   at RabbitMQ.Client.Framing.Impl.Connection..ctor(IConnectionFactory factory, Boolean insist, IFrameHandler frameHandler, ArrayPool`1 memoryPool, String clientProvidedName)
+   at RabbitMQ.Client.Framing.Impl.AutorecoveringConnection.Init(IFrameHandler fh)
+   at RabbitMQ.Client.Framing.Impl.AutorecoveringConnection.Init(IEndpointResolver endpoints)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(String clientProvidedName)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection()
+   at Delivery.Email.Worker.Application.RabbitConnect.TryConnect() in D:\Projects\Delivery.Email\Delivery.Email\Application\RabbitConnect.cs:line 29
+   at Delivery.Email.Worker.Application.MessageBus.QueueDeclare() in D:\Projects\Delivery.Email\Delivery.Email\Application\MessageBus.cs:line 26
+   at Delivery.Email.Worker.Application.MessageBus.Consumer() in D:\Projects\Delivery.Email\Delivery.Email\Application\MessageBus.cs:line 38
+   at Delivery.Email.Worker.Worker.ExecuteAsync(CancellationToken stoppingToken) in D:\Projects\Delivery.Email\Delivery.Email\Worker.cs:line 30
+   at Microsoft.Extensions.Hosting.Internal.Host.<StartAsync>b__15_1(IHostedService service, CancellationToken token)
+   at Microsoft.Extensions.Hosting.Internal.Host.ForeachService[T](IEnumerable`1 services, CancellationToken token, Boolean concurrent, Boolean abortOnFirstException, List`1 exceptions, Func`3 operation)
+[00:25:16 Error] Hosting failed to start
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.IO.IOException: connection.start was never received, likely due to a network timeout
+ ---> System.Net.Sockets.SocketException (10060): Uma tentativa de conexão falhou porque o componente conectado não respondeu
+corretamente após um período de tempo ou a conexão estabelecida falhou
+porque o host conectado não respondeu.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+--- End of stack trace from previous location ---
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFrom(Stream reader, Byte[] frameHeaderBuffer, ArrayPool`1 pool, UInt32 maxMessageSize)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ReadFrame()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoop()
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Framing.Impl.Connection.StartAndTune()
+   at RabbitMQ.Client.Framing.Impl.Connection.Open(Boolean insist)
+   at RabbitMQ.Client.Framing.Impl.Connection..ctor(IConnectionFactory factory, Boolean insist, IFrameHandler frameHandler, String clientProvidedName)
+   at RabbitMQ.Client.Framing.Impl.Connection..ctor(IConnectionFactory factory, Boolean insist, IFrameHandler frameHandler, ArrayPool`1 memoryPool, String clientProvidedName)
+   at RabbitMQ.Client.Framing.Impl.AutorecoveringConnection.Init(IFrameHandler fh)
+   at RabbitMQ.Client.Framing.Impl.AutorecoveringConnection.Init(IEndpointResolver endpoints)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(String clientProvidedName)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection()
+   at Delivery.Email.Worker.Application.RabbitConnect.TryConnect() in D:\Projects\Delivery.Email\Delivery.Email\Application\RabbitConnect.cs:line 29
+   at Delivery.Email.Worker.Application.MessageBus.QueueDeclare() in D:\Projects\Delivery.Email\Delivery.Email\Application\MessageBus.cs:line 26
+   at Delivery.Email.Worker.Application.MessageBus.Consumer() in D:\Projects\Delivery.Email\Delivery.Email\Application\MessageBus.cs:line 38
+   at Delivery.Email.Worker.Worker.ExecuteAsync(CancellationToken stoppingToken) in D:\Projects\Delivery.Email\Delivery.Email\Worker.cs:line 30
+   at Microsoft.Extensions.Hosting.Internal.Host.<StartAsync>b__15_1(IHostedService service, CancellationToken token)
+   at Microsoft.Extensions.Hosting.Internal.Host.ForeachService[T](IEnumerable`1 services, CancellationToken token, Boolean concurrent, Boolean abortOnFirstException, List`1 exceptions, Func`3 operation)
+[00:26:43 Error] Hosting failed to start
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.IO.IOException: connection.start was never received, likely due to a network timeout
+ ---> System.IO.IOException: Unable to read data from the transport connection: Foi forçado o cancelamento de uma conexão existente pelo host remoto..
+ ---> System.Net.Sockets.SocketException (10054): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+   at System.IO.BufferedStream.ReadByteSlow()
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFrom(Stream reader, Byte[] frameHeaderBuffer, ArrayPool`1 pool, UInt32 maxMessageSize)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ReadFrame()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoop()
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Framing.Impl.Connection.StartAndTune()
+   at RabbitMQ.Client.Framing.Impl.Connection.Open(Boolean insist)
+   at RabbitMQ.Client.Framing.Impl.Connection..ctor(IConnectionFactory factory, Boolean insist, IFrameHandler frameHandler, String clientProvidedName)
+   at RabbitMQ.Client.Framing.Impl.Connection..ctor(IConnectionFactory factory, Boolean insist, IFrameHandler frameHandler, ArrayPool`1 memoryPool, String clientProvidedName)
+   at RabbitMQ.Client.Framing.Impl.AutorecoveringConnection.Init(IFrameHandler fh)
+   at RabbitMQ.Client.Framing.Impl.AutorecoveringConnection.Init(IEndpointResolver endpoints)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(String clientProvidedName)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection()
+   at Delivery.Email.Worker.Application.RabbitConnect.TryConnect() in D:\Projects\Delivery.Email\Delivery.Email\Application\RabbitConnect.cs:line 29
+   at Delivery.Email.Worker.Application.MessageBus.QueueDeclare() in D:\Projects\Delivery.Email\Delivery.Email\Application\MessageBus.cs:line 26
+   at Delivery.Email.Worker.Application.MessageBus.Consumer() in D:\Projects\Delivery.Email\Delivery.Email\Application\MessageBus.cs:line 38
+   at Delivery.Email.Worker.Worker.ExecuteAsync(CancellationToken stoppingToken) in D:\Projects\Delivery.Email\Delivery.Email\Worker.cs:line 30
+   at Microsoft.Extensions.Hosting.Internal.Host.<StartAsync>b__15_1(IHostedService service, CancellationToken token)
+   at Microsoft.Extensions.Hosting.Internal.Host.ForeachService[T](IEnumerable`1 services, CancellationToken token, Boolean concurrent, Boolean abortOnFirstException, List`1 exceptions, Func`3 operation)
+[00:27:25 Error] Hosting failed to start
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.IO.IOException: connection.start was never received, likely due to a network timeout
+ ---> System.Net.Sockets.SocketException (10060): Uma tentativa de conexão falhou porque o componente conectado não respondeu
+corretamente após um período de tempo ou a conexão estabelecida falhou
+porque o host conectado não respondeu.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+--- End of stack trace from previous location ---
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFrom(Stream reader, Byte[] frameHeaderBuffer, ArrayPool`1 pool, UInt32 maxMessageSize)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ReadFrame()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoop()
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Framing.Impl.Connection.StartAndTune()
+   at RabbitMQ.Client.Framing.Impl.Connection.Open(Boolean insist)
+   at RabbitMQ.Client.Framing.Impl.Connection..ctor(IConnectionFactory factory, Boolean insist, IFrameHandler frameHandler, String clientProvidedName)
+   at RabbitMQ.Client.Framing.Impl.Connection..ctor(IConnectionFactory factory, Boolean insist, IFrameHandler frameHandler, ArrayPool`1 memoryPool, String clientProvidedName)
+   at RabbitMQ.Client.Framing.Impl.AutorecoveringConnection.Init(IFrameHandler fh)
+   at RabbitMQ.Client.Framing.Impl.AutorecoveringConnection.Init(IEndpointResolver endpoints)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(String clientProvidedName)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection()
+   at Delivery.Email.Worker.Application.RabbitConnect.TryConnect() in D:\Projects\Delivery.Email\Delivery.Email\Application\RabbitConnect.cs:line 29
+   at Delivery.Email.Worker.Application.MessageBus.QueueDeclare() in D:\Projects\Delivery.Email\Delivery.Email\Application\MessageBus.cs:line 26
+   at Delivery.Email.Worker.Application.MessageBus.Consumer() in D:\Projects\Delivery.Email\Delivery.Email\Application\MessageBus.cs:line 38
+   at Delivery.Email.Worker.Worker.ExecuteAsync(CancellationToken stoppingToken) in D:\Projects\Delivery.Email\Delivery.Email\Worker.cs:line 30
+   at Microsoft.Extensions.Hosting.Internal.Host.<StartAsync>b__15_1(IHostedService service, CancellationToken token)
+   at Microsoft.Extensions.Hosting.Internal.Host.ForeachService[T](IEnumerable`1 services, CancellationToken token, Boolean concurrent, Boolean abortOnFirstException, List`1 exceptions, Func`3 operation)
+[00:30:06 Error] Hosting failed to start
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.IO.IOException: connection.start was never received, likely due to a network timeout
+ ---> System.Net.Sockets.SocketException (10060): Uma tentativa de conexão falhou porque o componente conectado não respondeu
+corretamente após um período de tempo ou a conexão estabelecida falhou
+porque o host conectado não respondeu.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+--- End of stack trace from previous location ---
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFrom(Stream reader, Byte[] frameHeaderBuffer, ArrayPool`1 pool, UInt32 maxMessageSize)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ReadFrame()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoop()
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Framing.Impl.Connection.StartAndTune()
+   at RabbitMQ.Client.Framing.Impl.Connection.Open(Boolean insist)
+   at RabbitMQ.Client.Framing.Impl.Connection..ctor(IConnectionFactory factory, Boolean insist, IFrameHandler frameHandler, String clientProvidedName)
+   at RabbitMQ.Client.Framing.Impl.Connection..ctor(IConnectionFactory factory, Boolean insist, IFrameHandler frameHandler, ArrayPool`1 memoryPool, String clientProvidedName)
+   at RabbitMQ.Client.Framing.Impl.AutorecoveringConnection.Init(IFrameHandler fh)
+   at RabbitMQ.Client.Framing.Impl.AutorecoveringConnection.Init(IEndpointResolver endpoints)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(String clientProvidedName)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection()
+   at Delivery.Email.Worker.Application.RabbitConnect.TryConnect() in D:\Projects\Delivery.Email\Delivery.Email\Application\RabbitConnect.cs:line 29
+   at Delivery.Email.Worker.Application.MessageBus.QueueDeclare() in D:\Projects\Delivery.Email\Delivery.Email\Application\MessageBus.cs:line 26
+   at Delivery.Email.Worker.Application.MessageBus.Consumer() in D:\Projects\Delivery.Email\Delivery.Email\Application\MessageBus.cs:line 38
+   at Delivery.Email.Worker.Worker.ExecuteAsync(CancellationToken stoppingToken) in D:\Projects\Delivery.Email\Delivery.Email\Worker.cs:line 30
+   at Microsoft.Extensions.Hosting.Internal.Host.<StartAsync>b__15_1(IHostedService service, CancellationToken token)
+   at Microsoft.Extensions.Hosting.Internal.Host.ForeachService[T](IEnumerable`1 services, CancellationToken token, Boolean concurrent, Boolean abortOnFirstException, List`1 exceptions, Func`3 operation)
+[00:31:03 Error] Hosting failed to start
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.IO.IOException: connection.start was never received, likely due to a network timeout
+ ---> System.Net.Sockets.SocketException (10060): Uma tentativa de conexão falhou porque o componente conectado não respondeu
+corretamente após um período de tempo ou a conexão estabelecida falhou
+porque o host conectado não respondeu.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+--- End of stack trace from previous location ---
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFrom(Stream reader, Byte[] frameHeaderBuffer, ArrayPool`1 pool, UInt32 maxMessageSize)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ReadFrame()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoop()
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Framing.Impl.Connection.StartAndTune()
+   at RabbitMQ.Client.Framing.Impl.Connection.Open(Boolean insist)
+   at RabbitMQ.Client.Framing.Impl.Connection..ctor(IConnectionFactory factory, Boolean insist, IFrameHandler frameHandler, String clientProvidedName)
+   at RabbitMQ.Client.Framing.Impl.Connection..ctor(IConnectionFactory factory, Boolean insist, IFrameHandler frameHandler, ArrayPool`1 memoryPool, String clientProvidedName)
+   at RabbitMQ.Client.Framing.Impl.AutorecoveringConnection.Init(IFrameHandler fh)
+   at RabbitMQ.Client.Framing.Impl.AutorecoveringConnection.Init(IEndpointResolver endpoints)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(String clientProvidedName)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection()
+   at Delivery.Email.Worker.Application.RabbitConnect.TryConnect() in D:\Projects\Delivery.Email\Delivery.Email\Application\RabbitConnect.cs:line 29
+   at Delivery.Email.Worker.Application.MessageBus.QueueDeclare() in D:\Projects\Delivery.Email\Delivery.Email\Application\MessageBus.cs:line 26
+   at Delivery.Email.Worker.Application.MessageBus.Consumer() in D:\Projects\Delivery.Email\Delivery.Email\Application\MessageBus.cs:line 38
+   at Delivery.Email.Worker.Worker.ExecuteAsync(CancellationToken stoppingToken) in D:\Projects\Delivery.Email\Delivery.Email\Worker.cs:line 28
+   at Microsoft.Extensions.Hosting.Internal.Host.<StartAsync>b__15_1(IHostedService service, CancellationToken token)
+   at Microsoft.Extensions.Hosting.Internal.Host.ForeachService[T](IEnumerable`1 services, CancellationToken token, Boolean concurrent, Boolean abortOnFirstException, List`1 exceptions, Func`3 operation)
+[00:32:58 Error] Hosting failed to start
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.IO.IOException: connection.start was never received, likely due to a network timeout
+ ---> System.Net.Sockets.SocketException (10060): Uma tentativa de conexão falhou porque o componente conectado não respondeu
+corretamente após um período de tempo ou a conexão estabelecida falhou
+porque o host conectado não respondeu.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+--- End of stack trace from previous location ---
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFrom(Stream reader, Byte[] frameHeaderBuffer, ArrayPool`1 pool, UInt32 maxMessageSize)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ReadFrame()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoop()
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Framing.Impl.Connection.StartAndTune()
+   at RabbitMQ.Client.Framing.Impl.Connection.Open(Boolean insist)
+   at RabbitMQ.Client.Framing.Impl.Connection..ctor(IConnectionFactory factory, Boolean insist, IFrameHandler frameHandler, String clientProvidedName)
+   at RabbitMQ.Client.Framing.Impl.Connection..ctor(IConnectionFactory factory, Boolean insist, IFrameHandler frameHandler, ArrayPool`1 memoryPool, String clientProvidedName)
+   at RabbitMQ.Client.Framing.Impl.AutorecoveringConnection.Init(IFrameHandler fh)
+   at RabbitMQ.Client.Framing.Impl.AutorecoveringConnection.Init(IEndpointResolver endpoints)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(String clientProvidedName)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection()
+   at Delivery.Email.Worker.Application.RabbitConnect.TryConnect() in D:\Projects\Delivery.Email\Delivery.Email\Application\RabbitConnect.cs:line 29
+   at Delivery.Email.Worker.Application.MessageBus.QueueDeclare() in D:\Projects\Delivery.Email\Delivery.Email\Application\MessageBus.cs:line 26
+   at Delivery.Email.Worker.Application.MessageBus.Consumer() in D:\Projects\Delivery.Email\Delivery.Email\Application\MessageBus.cs:line 38
+   at Delivery.Email.Worker.Worker.ExecuteAsync(CancellationToken stoppingToken) in D:\Projects\Delivery.Email\Delivery.Email\Worker.cs:line 30
+   at Microsoft.Extensions.Hosting.Internal.Host.<StartAsync>b__15_1(IHostedService service, CancellationToken token)
+   at Microsoft.Extensions.Hosting.Internal.Host.ForeachService[T](IEnumerable`1 services, CancellationToken token, Boolean concurrent, Boolean abortOnFirstException, List`1 exceptions, Func`3 operation)
+[00:33:55 Error] Hosting failed to start
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.IO.IOException: connection.start was never received, likely due to a network timeout
+ ---> System.Net.Sockets.SocketException (10060): Uma tentativa de conexão falhou porque o componente conectado não respondeu
+corretamente após um período de tempo ou a conexão estabelecida falhou
+porque o host conectado não respondeu.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+--- End of stack trace from previous location ---
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFrom(Stream reader, Byte[] frameHeaderBuffer, ArrayPool`1 pool, UInt32 maxMessageSize)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ReadFrame()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoop()
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Framing.Impl.Connection.StartAndTune()
+   at RabbitMQ.Client.Framing.Impl.Connection.Open(Boolean insist)
+   at RabbitMQ.Client.Framing.Impl.Connection..ctor(IConnectionFactory factory, Boolean insist, IFrameHandler frameHandler, String clientProvidedName)
+   at RabbitMQ.Client.Framing.Impl.Connection..ctor(IConnectionFactory factory, Boolean insist, IFrameHandler frameHandler, ArrayPool`1 memoryPool, String clientProvidedName)
+   at RabbitMQ.Client.Framing.Impl.AutorecoveringConnection.Init(IFrameHandler fh)
+   at RabbitMQ.Client.Framing.Impl.AutorecoveringConnection.Init(IEndpointResolver endpoints)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(String clientProvidedName)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection()
+   at Delivery.Email.Worker.Application.RabbitConnect.TryConnect() in D:\Projects\Delivery.Email\Delivery.Email\Application\RabbitConnect.cs:line 29
+   at Delivery.Email.Worker.Application.MessageBus.QueueDeclare() in D:\Projects\Delivery.Email\Delivery.Email\Application\MessageBus.cs:line 26
+   at Delivery.Email.Worker.Application.MessageBus.Consumer() in D:\Projects\Delivery.Email\Delivery.Email\Application\MessageBus.cs:line 38
+   at Delivery.Email.Worker.Worker.ExecuteAsync(CancellationToken stoppingToken) in D:\Projects\Delivery.Email\Delivery.Email\Worker.cs:line 30
+   at Microsoft.Extensions.Hosting.Internal.Host.<StartAsync>b__15_1(IHostedService service, CancellationToken token)
+   at Microsoft.Extensions.Hosting.Internal.Host.ForeachService[T](IEnumerable`1 services, CancellationToken token, Boolean concurrent, Boolean abortOnFirstException, List`1 exceptions, Func`3 operation)
+[23:27:58 Information] Application started. Press Ctrl+C to shut down.
+[23:27:58 Information] Hosting environment: "Development"
+[23:27:58 Information] Content root path: "D:\Projects\Delivery.Email\Delivery.Email"
+[23:28:07 Error] BackgroundService failed
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.IO.IOException: connection.start was never received, likely due to a network timeout
+ ---> System.IO.IOException: Unable to read data from the transport connection: Uma conexão estabelecida foi anulada pelo software no computador host..
+ ---> System.Net.Sockets.SocketException (10053): Uma conexão estabelecida foi anulada pelo software no computador host.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFrom(Stream reader, Byte[] frameHeaderBuffer, ArrayPool`1 pool, UInt32 maxMessageSize)
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoop()
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Framing.Impl.Connection.StartAndTune()
+   at RabbitMQ.Client.Framing.Impl.Connection..ctor(IConnectionFactory factory, Boolean insist, IFrameHandler frameHandler, String clientProvidedName)
+   at RabbitMQ.Client.Framing.Impl.AutorecoveringConnection.Init(IFrameHandler fh)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at Delivery.Email.Worker.Application.RabbitConnect.TryConnect() in D:\Projects\Delivery.Email\Delivery.Email\Application\RabbitConnect.cs:line 29
+   at Delivery.Email.Worker.Application.MessageBus.QueueDeclare() in D:\Projects\Delivery.Email\Delivery.Email\Application\MessageBus.cs:line 26
+   at Delivery.Email.Worker.Application.MessageBus.Consumer() in D:\Projects\Delivery.Email\Delivery.Email\Application\MessageBus.cs:line 38
+   at Delivery.Email.Worker.Worker.ExecuteAsync(CancellationToken stoppingToken) in D:\Projects\Delivery.Email\Delivery.Email\Worker.cs:line 30
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+[23:28:07 Fatal] The HostOptions.BackgroundServiceExceptionBehavior is configured to StopHost. A BackgroundService has thrown an unhandled exception, and the IHost instance is stopping. To avoid this behavior, configure this to Ignore; however the BackgroundService will not be restarted.
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.IO.IOException: connection.start was never received, likely due to a network timeout
+ ---> System.IO.IOException: Unable to read data from the transport connection: Uma conexão estabelecida foi anulada pelo software no computador host..
+ ---> System.Net.Sockets.SocketException (10053): Uma conexão estabelecida foi anulada pelo software no computador host.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFrom(Stream reader, Byte[] frameHeaderBuffer, ArrayPool`1 pool, UInt32 maxMessageSize)
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoop()
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Framing.Impl.Connection.StartAndTune()
+   at RabbitMQ.Client.Framing.Impl.Connection..ctor(IConnectionFactory factory, Boolean insist, IFrameHandler frameHandler, String clientProvidedName)
+   at RabbitMQ.Client.Framing.Impl.AutorecoveringConnection.Init(IFrameHandler fh)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at Delivery.Email.Worker.Application.RabbitConnect.TryConnect() in D:\Projects\Delivery.Email\Delivery.Email\Application\RabbitConnect.cs:line 29
+   at Delivery.Email.Worker.Application.MessageBus.QueueDeclare() in D:\Projects\Delivery.Email\Delivery.Email\Application\MessageBus.cs:line 26
+   at Delivery.Email.Worker.Application.MessageBus.Consumer() in D:\Projects\Delivery.Email\Delivery.Email\Application\MessageBus.cs:line 38
+   at Delivery.Email.Worker.Worker.ExecuteAsync(CancellationToken stoppingToken) in D:\Projects\Delivery.Email\Delivery.Email\Worker.cs:line 30
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+[23:28:07 Information] Application is shutting down...
+[23:30:18 Information] Application started. Press Ctrl+C to shut down.
+[23:30:18 Information] Hosting environment: "Development"
+[23:30:18 Information] Content root path: "D:\Projects\Delivery.Email\Delivery.Email"
+[23:30:34 Error] BackgroundService failed
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.IO.IOException: connection.start was never received, likely due to a network timeout
+ ---> System.IO.EndOfStreamException: Reached the end of the stream. Possible authentication failure.
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFrom(Stream reader, Byte[] frameHeaderBuffer, ArrayPool`1 pool, UInt32 maxMessageSize)
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoop()
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Framing.Impl.Connection.StartAndTune()
+   at RabbitMQ.Client.Framing.Impl.Connection..ctor(IConnectionFactory factory, Boolean insist, IFrameHandler frameHandler, String clientProvidedName)
+   at RabbitMQ.Client.Framing.Impl.AutorecoveringConnection.Init(IFrameHandler fh)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at Delivery.Email.Worker.Application.RabbitConnect.TryConnect() in D:\Projects\Delivery.Email\Delivery.Email\Application\RabbitConnect.cs:line 29
+   at Delivery.Email.Worker.Application.MessageBus.QueueDeclare() in D:\Projects\Delivery.Email\Delivery.Email\Application\MessageBus.cs:line 26
+   at Delivery.Email.Worker.Application.MessageBus.Consumer() in D:\Projects\Delivery.Email\Delivery.Email\Application\MessageBus.cs:line 38
+   at Delivery.Email.Worker.Worker.ExecuteAsync(CancellationToken stoppingToken) in D:\Projects\Delivery.Email\Delivery.Email\Worker.cs:line 30
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+[23:30:34 Fatal] The HostOptions.BackgroundServiceExceptionBehavior is configured to StopHost. A BackgroundService has thrown an unhandled exception, and the IHost instance is stopping. To avoid this behavior, configure this to Ignore; however the BackgroundService will not be restarted.
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.IO.IOException: connection.start was never received, likely due to a network timeout
+ ---> System.IO.EndOfStreamException: Reached the end of the stream. Possible authentication failure.
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFrom(Stream reader, Byte[] frameHeaderBuffer, ArrayPool`1 pool, UInt32 maxMessageSize)
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoop()
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Framing.Impl.Connection.StartAndTune()
+   at RabbitMQ.Client.Framing.Impl.Connection..ctor(IConnectionFactory factory, Boolean insist, IFrameHandler frameHandler, String clientProvidedName)
+   at RabbitMQ.Client.Framing.Impl.AutorecoveringConnection.Init(IFrameHandler fh)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at Delivery.Email.Worker.Application.RabbitConnect.TryConnect() in D:\Projects\Delivery.Email\Delivery.Email\Application\RabbitConnect.cs:line 29
+   at Delivery.Email.Worker.Application.MessageBus.QueueDeclare() in D:\Projects\Delivery.Email\Delivery.Email\Application\MessageBus.cs:line 26
+   at Delivery.Email.Worker.Application.MessageBus.Consumer() in D:\Projects\Delivery.Email\Delivery.Email\Application\MessageBus.cs:line 38
+   at Delivery.Email.Worker.Worker.ExecuteAsync(CancellationToken stoppingToken) in D:\Projects\Delivery.Email\Delivery.Email\Worker.cs:line 30
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+[23:30:34 Information] Application is shutting down...
+[23:31:08 Error] Hosting failed to start
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.IO.IOException: connection.start was never received, likely due to a network timeout
+ ---> System.Net.Sockets.SocketException (10060): Uma tentativa de conexão falhou porque o componente conectado não respondeu
+corretamente após um período de tempo ou a conexão estabelecida falhou
+porque o host conectado não respondeu.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+--- End of stack trace from previous location ---
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFrom(Stream reader, Byte[] frameHeaderBuffer, ArrayPool`1 pool, UInt32 maxMessageSize)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ReadFrame()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoop()
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Framing.Impl.Connection.StartAndTune()
+   at RabbitMQ.Client.Framing.Impl.Connection.Open(Boolean insist)
+   at RabbitMQ.Client.Framing.Impl.Connection..ctor(IConnectionFactory factory, Boolean insist, IFrameHandler frameHandler, String clientProvidedName)
+   at RabbitMQ.Client.Framing.Impl.Connection..ctor(IConnectionFactory factory, Boolean insist, IFrameHandler frameHandler, ArrayPool`1 memoryPool, String clientProvidedName)
+   at RabbitMQ.Client.Framing.Impl.AutorecoveringConnection.Init(IFrameHandler fh)
+   at RabbitMQ.Client.Framing.Impl.AutorecoveringConnection.Init(IEndpointResolver endpoints)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(String clientProvidedName)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection()
+   at Delivery.Email.Worker.Application.RabbitConnect.TryConnect() in D:\Projects\Delivery.Email\Delivery.Email\Application\RabbitConnect.cs:line 29
+   at Delivery.Email.Worker.Application.MessageBus.QueueDeclare() in D:\Projects\Delivery.Email\Delivery.Email\Application\MessageBus.cs:line 26
+   at Delivery.Email.Worker.Application.MessageBus.Consumer() in D:\Projects\Delivery.Email\Delivery.Email\Application\MessageBus.cs:line 38
+   at Delivery.Email.Worker.Worker.ExecuteAsync(CancellationToken stoppingToken) in D:\Projects\Delivery.Email\Delivery.Email\Worker.cs:line 28
+   at Microsoft.Extensions.Hosting.Internal.Host.<StartAsync>b__15_1(IHostedService service, CancellationToken token)
+   at Microsoft.Extensions.Hosting.Internal.Host.ForeachService[T](IEnumerable`1 services, CancellationToken token, Boolean concurrent, Boolean abortOnFirstException, List`1 exceptions, Func`3 operation)
+[23:31:44 Error] Hosting failed to start
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.IO.IOException: connection.start was never received, likely due to a network timeout
+ ---> System.Net.Sockets.SocketException (10060): Uma tentativa de conexão falhou porque o componente conectado não respondeu
+corretamente após um período de tempo ou a conexão estabelecida falhou
+porque o host conectado não respondeu.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+--- End of stack trace from previous location ---
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFrom(Stream reader, Byte[] frameHeaderBuffer, ArrayPool`1 pool, UInt32 maxMessageSize)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ReadFrame()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoop()
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Framing.Impl.Connection.StartAndTune()
+   at RabbitMQ.Client.Framing.Impl.Connection.Open(Boolean insist)
+   at RabbitMQ.Client.Framing.Impl.Connection..ctor(IConnectionFactory factory, Boolean insist, IFrameHandler frameHandler, String clientProvidedName)
+   at RabbitMQ.Client.Framing.Impl.Connection..ctor(IConnectionFactory factory, Boolean insist, IFrameHandler frameHandler, ArrayPool`1 memoryPool, String clientProvidedName)
+   at RabbitMQ.Client.Framing.Impl.AutorecoveringConnection.Init(IFrameHandler fh)
+   at RabbitMQ.Client.Framing.Impl.AutorecoveringConnection.Init(IEndpointResolver endpoints)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(String clientProvidedName)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection()
+   at Delivery.Email.Worker.Application.RabbitConnect.TryConnect() in D:\Projects\Delivery.Email\Delivery.Email\Application\RabbitConnect.cs:line 29
+   at Delivery.Email.Worker.Application.MessageBus.QueueDeclare() in D:\Projects\Delivery.Email\Delivery.Email\Application\MessageBus.cs:line 26
+   at Delivery.Email.Worker.Application.MessageBus.Consumer() in D:\Projects\Delivery.Email\Delivery.Email\Application\MessageBus.cs:line 38
+   at Delivery.Email.Worker.Worker.ExecuteAsync(CancellationToken stoppingToken) in D:\Projects\Delivery.Email\Delivery.Email\Worker.cs:line 28
+   at Microsoft.Extensions.Hosting.Internal.Host.<StartAsync>b__15_1(IHostedService service, CancellationToken token)
+   at Microsoft.Extensions.Hosting.Internal.Host.ForeachService[T](IEnumerable`1 services, CancellationToken token, Boolean concurrent, Boolean abortOnFirstException, List`1 exceptions, Func`3 operation)
+[12:29:56 Information] Application started. Press Ctrl+C to shut down.
+[12:29:56 Information] Hosting environment: "Development"
+[12:29:56 Information] Content root path: "D:\Projects\Delivery.Email\Delivery.Email"
+[12:31:31 Information] Application started. Press Ctrl+C to shut down.
+[12:31:46 Information] Hosting environment: "Development"
+[12:31:46 Information] Content root path: "D:\Projects\Delivery.Email\Delivery.Email"
+[12:32:24 Information] [Nova mensagem | 2023-12-30 12:32:24] {
+    "Para": "julianorancoletta@outlook.com.br",
+    "De": "teste",
+    "Assunto": "teste",
+    "Corpo": "teste"
+}
+[19:40:32 Information] Application started. Press Ctrl+C to shut down.
+[19:40:33 Information] Hosting environment: "Development"
+[19:40:33 Information] Content root path: "D:\Projects\Delivery.Email\Delivery.Email"
+[19:41:53 Information] Application started. Press Ctrl+C to shut down.
+[19:41:53 Information] Hosting environment: "Development"
+[19:41:53 Information] Content root path: "D:\Projects\Delivery.Email\Delivery.Email"
+[19:41:59 Information] Application started. Press Ctrl+C to shut down.
+[19:41:59 Information] Hosting environment: "Development"
+[19:41:59 Information] Content root path: "D:\Projects\Delivery.Email\Delivery.Email"
+[19:44:08 Information] Application started. Press Ctrl+C to shut down.
+[19:44:08 Information] Hosting environment: "Development"
+[19:44:08 Information] Content root path: "D:\Projects\Delivery.Email\Delivery.Email"
+[19:44:24 Error] Hosting failed to start
+RabbitMQ.Client.Exceptions.OperationInterruptedException: The AMQP operation was interrupted: AMQP close-reason, initiated by Peer, code=406, text='PRECONDITION_FAILED - inequivalent arg 'durable' for queue 'pessoa_queue' in vhost '/': received 'true' but current is 'false'', classId=50, methodId=10
+   at RabbitMQ.Client.Impl.SimpleBlockingRpcContinuation.GetReply(TimeSpan timeout)
+   at RabbitMQ.Client.Impl.ModelBase.QueueDeclare(String queue, Boolean passive, Boolean durable, Boolean exclusive, Boolean autoDelete, IDictionary`2 arguments)
+   at RabbitMQ.Client.Impl.ModelBase.QueueDeclare(String queue, Boolean durable, Boolean exclusive, Boolean autoDelete, IDictionary`2 arguments)
+   at RabbitMQ.Client.Impl.AutorecoveringModel.QueueDeclare(String queue, Boolean durable, Boolean exclusive, Boolean autoDelete, IDictionary`2 arguments)
+   at Delivery.Email.Worker.Application.MessageBus.QueueDeclare() in D:\Projects\Delivery.Email\Delivery.Email\Application\MessageBus.cs:line 28
+   at Delivery.Email.Worker.Application.MessageBus.Consumer() in D:\Projects\Delivery.Email\Delivery.Email\Application\MessageBus.cs:line 38
+   at Delivery.Email.Worker.Worker.ExecuteAsync(CancellationToken stoppingToken) in D:\Projects\Delivery.Email\Delivery.Email\Worker.cs:line 26
+   at Microsoft.Extensions.Hosting.Internal.Host.<StartAsync>b__15_1(IHostedService service, CancellationToken token)
+   at Microsoft.Extensions.Hosting.Internal.Host.ForeachService[T](IEnumerable`1 services, CancellationToken token, Boolean concurrent, Boolean abortOnFirstException, List`1 exceptions, Func`3 operation)
+[19:44:44 Information] Application started. Press Ctrl+C to shut down.
+[19:44:44 Information] Hosting environment: "Development"
+[19:44:44 Information] Content root path: "D:\Projects\Delivery.Email\Delivery.Email"
+[19:45:07 Information] Application started. Press Ctrl+C to shut down.
+[19:45:07 Information] Hosting environment: "Development"
+[19:45:07 Information] Content root path: "D:\Projects\Delivery.Email\Delivery.Email"
+[19:45:20 Information] Application started. Press Ctrl+C to shut down.
+[19:45:20 Information] Hosting environment: "Development"
+[19:45:20 Information] Content root path: "D:\Projects\Delivery.Email\Delivery.Email"
+[19:49:30 Information] [Nova mensagem | 2024-05-13 19:49:30] {"NomeCompleto":"string","DataNascimento":"2024-05-13T22:49:26.326Z","Email":"string","DadosEndereco":{"Rua":"string","Bairro":"string","NumeroResidencia":0,"Complemento":"string","CEP":0}}
+[19:50:34 Information] Application started. Press Ctrl+C to shut down.
+[19:50:34 Information] Hosting environment: "Development"
+[19:50:34 Information] Content root path: "D:\Projects\Delivery.Email\Delivery.Email"
+[19:50:43 Information] [Nova mensagem | 2024-05-13 19:50:43] {"NomeCompleto":"string","DataNascimento":"2024-05-13T22:50:41.927Z","Email":"string","DadosEndereco":{"Rua":"string","Bairro":"string","NumeroResidencia":0,"Complemento":"string","CEP":0}}
+[19:52:17 Information] Application started. Press Ctrl+C to shut down.
+[19:52:17 Information] Hosting environment: "Development"
+[19:52:17 Information] Content root path: "D:\Projects\Delivery.Email\Delivery.Email"
+[19:52:20 Information] [Nova mensagem | 2024-05-13 19:52:20] {"NomeCompleto":"string","DataNascimento":"2024-05-13T22:50:41.927Z","Email":"string","DadosEndereco":{"Rua":"string","Bairro":"string","NumeroResidencia":0,"Complemento":"string","CEP":0}}
+[19:57:40 Information] Application started. Press Ctrl+C to shut down.
+[19:57:40 Information] Hosting environment: "Development"
+[19:57:40 Information] Content root path: "D:\Projects\Delivery.Email\Delivery.Email"
+[19:57:40 Information] [Nova mensagem | 2024-05-13 19:57:40] {"NomeCompleto":"teste juliano 2","DataNascimento":"1996-01-13T22:56:19.76Z","Email":"teste@teste.com.br","DadosEndereco":{"Rua":"rua teste","Bairro":"bairro teste","NumeroResidencia":100,"Complemento":"casa","CEP":13203000}}
+[20:02:20 Information] Application started. Press Ctrl+C to shut down.
+[20:02:20 Information] Hosting environment: "Development"
+[20:02:20 Information] Content root path: "D:\Projects\Delivery.Email\Delivery.Email"
+[20:02:20 Information] [Nova mensagem | 2024-05-13 20:02:20] {"NomeCompleto":"teste 1","DataNascimento":"2024-05-13T23:01:17.238Z","Email":"teste@teste.com.br","DadosEndereco":{"Rua":"rua teste","Bairro":"teste","NumeroResidencia":100,"Complemento":"casa","CEP":13203531}}
