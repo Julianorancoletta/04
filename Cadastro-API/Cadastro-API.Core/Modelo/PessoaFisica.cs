@@ -12,9 +12,11 @@ namespace Delivery.Core.Modelo
     {
         [BsonId]
         [BsonRepresentation(BsonType.ObjectId)]
-        public string? Id { get; set; }
+        public string? Id { get; set; } = null;
 
         public string nomeCompleto { get; set; } = null!;
+
+        public string CPF { get; set; }
 
         public DateTime dataNascimento { get; set; }
 
