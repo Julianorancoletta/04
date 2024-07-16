@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Acad\u00EAmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{45AC0DA3-B3E9-4AB9-A794-07FFB80DCDC7}|Delivery.Email.Infra.Tests\\Delivery.Email.Infra.Tests.csproj|c:\\acad\u00EAmico\\cursos\\postech\\projetos\\fase4\\04\\delivery.email\\delivery.email.infra.tests\\service\\emailservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45AC0DA3-B3E9-4AB9-A794-07FFB80DCDC7}|Delivery.Email.Infra.Tests\\Delivery.Email.Infra.Tests.csproj|solutionrelative:delivery.email.infra.tests\\service\\emailservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|c:\\acad\u00EAmico\\cursos\\postech\\projetos\\fase4\\04\\delivery.email\\delivery.email\\configuration\\dependencyinjectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|solutionrelative:delivery.email\\configuration\\dependencyinjectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C460C7E3-0DC2-4DD1-A209-1C2019C19397}|Delivery.Email.Infra\\Delivery.Email.Infra.csproj|c:\\acad\u00EAmico\\cursos\\postech\\projetos\\fase4\\04\\delivery.email\\delivery.email.infra\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C460C7E3-0DC2-4DD1-A209-1C2019C19397}|Delivery.Email.Infra\\Delivery.Email.Infra.csproj|solutionrelative:delivery.email.infra\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45AC0DA3-B3E9-4AB9-A794-07FFB80DCDC7}|Delivery.Email.Infra.Tests\\Delivery.Email.Infra.Tests.csproj|c:\\acad\u00EAmico\\cursos\\postech\\projetos\\fase4\\04\\delivery.email\\delivery.email.infra.tests\\service\\emailservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45AC0DA3-B3E9-4AB9-A794-07FFB80DCDC7}|Delivery.Email.Infra.Tests\\Delivery.Email.Infra.Tests.csproj|solutionrelative:delivery.email.infra.tests\\service\\emailservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|c:\\acad\u00EAmico\\cursos\\postech\\projetos\\fase4\\04\\delivery.email\\delivery.email\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|c:\\acad\u00EAmico\\cursos\\postech\\projetos\\fase4\\04\\delivery.email\\delivery.email\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|solutionrelative:delivery.email\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|c:\\acad\u00EAmico\\cursos\\postech\\projetos\\fase4\\04\\delivery.email\\delivery.email\\configuration\\dependencyinjectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|solutionrelative:delivery.email\\configuration\\dependencyinjectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|c:\\acad\u00EAmico\\cursos\\postech\\projetos\\fase4\\04\\delivery.email\\delivery.email\\configuration\\rabbitconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -90,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 35,
           "Children": [
             {
               "$type": "Bookmark",
@@ -171,13 +171,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "EmailServiceTests.cs",
               "DocumentMoniker": "C:\\Acad\u00EAmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email.Infra.Tests\\Service\\EmailServiceTests.cs",
               "RelativeDocumentMoniker": "Delivery.Email.Infra.Tests\\Service\\EmailServiceTests.cs",
               "ToolTip": "C:\\Acad\u00EAmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email.Infra.Tests\\Service\\EmailServiceTests.cs",
               "RelativeToolTip": "Delivery.Email.Infra.Tests\\Service\\EmailServiceTests.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAswCkAAAAbAAAA",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwAYAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-16T00:00:07.241Z",
               "EditorCaption": ""
@@ -258,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Worker.cs",
               "DocumentMoniker": "C:\\Acad\u00EAmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email\\Worker.cs",
               "RelativeDocumentMoniker": "Delivery.Email\\Worker.cs",
@@ -284,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Acad\u00EAmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email\\Program.cs",
               "RelativeDocumentMoniker": "Delivery.Email\\Program.cs",
@@ -297,7 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Configuration.cs",
               "DocumentMoniker": "C:\\Acad\u00EAmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email.Infra\\Connections\\Configuration.cs",
               "RelativeDocumentMoniker": "Delivery.Email.Infra\\Connections\\Configuration.cs",
@@ -353,7 +353,7 @@
               "RelativeDocumentMoniker": "Delivery.Email.Infra\\Service\\EmailService.cs",
               "ToolTip": "C:\\Acad\u00EAmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email.Infra\\Service\\EmailService.cs",
               "RelativeToolTip": "Delivery.Email.Infra\\Service\\EmailService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAABaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2023-12-29T03:29:28.753Z",
               "EditorCaption": ""
@@ -395,13 +395,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "DependencyInjectionConfig.cs",
               "DocumentMoniker": "C:\\Acad\u00EAmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email\\Configuration\\DependencyInjectionConfig.cs",
               "RelativeDocumentMoniker": "Delivery.Email\\Configuration\\DependencyInjectionConfig.cs",
               "ToolTip": "C:\\Acad\u00EAmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email\\Configuration\\DependencyInjectionConfig.cs",
               "RelativeToolTip": "Delivery.Email\\Configuration\\DependencyInjectionConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2023-12-24T02:06:58.458Z",
               "EditorCaption": ""

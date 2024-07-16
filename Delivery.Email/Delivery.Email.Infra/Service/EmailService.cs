@@ -11,8 +11,6 @@ namespace Delivery.Email.Infra.Service
 
         public EmailService(IMongoClient client, IOptions<BookStoreDatabaseSettings> EmailDatabaseSettings)
         {
-            //var mongoDatabase = new MongoClient(EmailDatabaseSettings.Value.ConnectionString)
-            //    .GetDatabase(EmailDatabaseSettings.Value.DatabaseName);
             var mongoDatabase = client.GetDatabase(EmailDatabaseSettings.Value.DatabaseName);
 
             _EmailCollection = mongoDatabase.GetCollection<PessoaFisica>(
