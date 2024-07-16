@@ -22,7 +22,7 @@ Regras de negócio:
 Caso de Uso:
 1- A API de cadastro deve ser capaz de cadastrar um cliente genérico ao ser acionada por qualquer um dos programas de front, ao ser acionada esta deverá validar os dados a serem inseridos e posteriormente enviar para a fila de processamento.
 
-2- A API de processamento de cadastro deve de tempos em tempos checar a fila de tarefas, ao identificar uma requisição de cadastro esta persistirá os dados no banco e enviará um SMS ao cliente informando o respectivo cadastro.
+2- A API de processamento de cadastro deve de tempos em tempos checar a fila de tarefas, ao identificar uma requisição de cadastro esta persistirá os dados no banco e enviará um email ao cliente informando o respectivo cadastro.
 
 Banco de dados: 
 Será utilizado o MongoDB por questões da velocidade e para simplificar a modelagem do banco que futuramente poderá conter diversas ramificações filhas de tabelas já existentes.
