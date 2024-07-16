@@ -1,28 +1,29 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\Delivery.Email.Worker.csproj": {}
+    "C:\\Acadêmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email\\Delivery.Email.Worker.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email.Core\\Delivery.Email.Core.csproj": {
+    "C:\\Acadêmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email.Core\\Delivery.Email.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email.Core\\Delivery.Email.Core.csproj",
+        "projectUniqueName": "C:\\Acadêmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email.Core\\Delivery.Email.Core.csproj",
         "projectName": "Delivery.Email.Core",
-        "projectPath": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email.Core\\Delivery.Email.Core.csproj",
-        "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email.Core\\obj\\",
+        "projectPath": "C:\\Acadêmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email.Core\\Delivery.Email.Core.csproj",
+        "packagesPath": "C:\\Users\\julio.cruz\\.nuget\\packages\\",
+        "outputPath": "C:\\Acadêmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email.Core\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\julio.cruz\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -67,37 +68,38 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email.Infra\\Delivery.Email.Infra.csproj": {
+    "C:\\Acadêmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email.Infra\\Delivery.Email.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email.Infra\\Delivery.Email.Infra.csproj",
+        "projectUniqueName": "C:\\Acadêmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email.Infra\\Delivery.Email.Infra.csproj",
         "projectName": "Delivery.Email.Infra",
-        "projectPath": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email.Infra\\Delivery.Email.Infra.csproj",
-        "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email.Infra\\obj\\",
+        "projectPath": "C:\\Acadêmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email.Infra\\Delivery.Email.Infra.csproj",
+        "packagesPath": "C:\\Users\\julio.cruz\\.nuget\\packages\\",
+        "outputPath": "C:\\Acadêmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email.Infra\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\julio.cruz\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email.Core\\Delivery.Email.Core.csproj": {
-                "projectPath": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email.Core\\Delivery.Email.Core.csproj"
+              "C:\\Acadêmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email.Core\\Delivery.Email.Core.csproj": {
+                "projectPath": "C:\\Acadêmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email.Core\\Delivery.Email.Core.csproj"
               }
             }
           }
@@ -142,40 +144,41 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\Delivery.Email.Worker.csproj": {
+    "C:\\Acadêmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email\\Delivery.Email.Worker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\Delivery.Email.Worker.csproj",
+        "projectUniqueName": "C:\\Acadêmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email\\Delivery.Email.Worker.csproj",
         "projectName": "Delivery.Email.Worker",
-        "projectPath": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\Delivery.Email.Worker.csproj",
-        "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\obj\\",
+        "projectPath": "C:\\Acadêmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email\\Delivery.Email.Worker.csproj",
+        "packagesPath": "C:\\Users\\julio.cruz\\.nuget\\packages\\",
+        "outputPath": "C:\\Acadêmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\julio.cruz\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email.Core\\Delivery.Email.Core.csproj": {
-                "projectPath": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email.Core\\Delivery.Email.Core.csproj"
+              "C:\\Acadêmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email.Core\\Delivery.Email.Core.csproj": {
+                "projectPath": "C:\\Acadêmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email.Core\\Delivery.Email.Core.csproj"
               },
-              "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email.Infra\\Delivery.Email.Infra.csproj": {
-                "projectPath": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email.Infra\\Delivery.Email.Infra.csproj"
+              "C:\\Acadêmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email.Infra\\Delivery.Email.Infra.csproj": {
+                "projectPath": "C:\\Acadêmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email.Infra\\Delivery.Email.Infra.csproj"
               }
             }
           }
@@ -232,7 +235,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

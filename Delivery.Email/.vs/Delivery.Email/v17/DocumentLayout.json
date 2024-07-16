@@ -1,77 +1,85 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Projects\\FIAP\\Delivery.Email\\",
+  "WorkspaceRootPath": "C:\\Acad\u00EAmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|d:\\projects\\fiap\\delivery.email\\delivery.email\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|solutionrelative:delivery.email\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|d:\\projects\\fiap\\delivery.email\\delivery.email\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|solutionrelative:delivery.email\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|d:\\projects\\fiap\\delivery.email\\delivery.email\\application\\messagebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|solutionrelative:delivery.email\\application\\messagebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|d:\\projects\\fiap\\delivery.email\\delivery.email\\application\\rabbitconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|solutionrelative:delivery.email\\application\\rabbitconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5798673-018F-41B5-AE4F-5A9AB7151EED}|Delivery.Email.Core\\Delivery.Email.Core.csproj|d:\\projects\\fiap\\delivery.email\\delivery.email.core\\domain\\pessoafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5798673-018F-41B5-AE4F-5A9AB7151EED}|Delivery.Email.Core\\Delivery.Email.Core.csproj|solutionrelative:delivery.email.core\\domain\\pessoafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|d:\\projects\\fiap\\delivery.email\\delivery.email\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|solutionrelative:delivery.email\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|d:\\projects\\fiap\\delivery.email\\delivery.email\\delivery.email.worker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|solutionrelative:delivery.email\\delivery.email.worker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|d:\\projects\\fiap\\delivery.email\\delivery.email\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|solutionrelative:delivery.email\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C460C7E3-0DC2-4DD1-A209-1C2019C19397}|Delivery.Email.Infra\\Delivery.Email.Infra.csproj|d:\\projects\\fiap\\delivery.email\\delivery.email.infra\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C460C7E3-0DC2-4DD1-A209-1C2019C19397}|Delivery.Email.Infra\\Delivery.Email.Infra.csproj|solutionrelative:delivery.email.infra\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C460C7E3-0DC2-4DD1-A209-1C2019C19397}|Delivery.Email.Infra\\Delivery.Email.Infra.csproj|d:\\projects\\fiap\\delivery.email\\delivery.email.infra\\connections\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C460C7E3-0DC2-4DD1-A209-1C2019C19397}|Delivery.Email.Infra\\Delivery.Email.Infra.csproj|solutionrelative:delivery.email.infra\\connections\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|d:\\projects\\fiap\\delivery.email\\delivery.email\\configuration\\rabbitconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|solutionrelative:delivery.email\\configuration\\rabbitconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|d:\\projects\\fiap\\delivery.email\\delivery.email\\configuration\\emailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|solutionrelative:delivery.email\\configuration\\emailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|d:\\projects\\fiap\\delivery.email\\delivery.email\\application\\interfaces\\irabbitconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|solutionrelative:delivery.email\\application\\interfaces\\irabbitconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|d:\\projects\\fiap\\delivery.email\\delivery.email\\application\\interfaces\\imessagebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|solutionrelative:delivery.email\\application\\interfaces\\imessagebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|d:\\projects\\fiap\\delivery.email\\delivery.email\\configuration\\dependencyinjectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|c:\\acad\u00EAmico\\cursos\\postech\\projetos\\fase4\\04\\delivery.email\\delivery.email\\configuration\\dependencyinjectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|solutionrelative:delivery.email\\configuration\\dependencyinjectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C460C7E3-0DC2-4DD1-A209-1C2019C19397}|Delivery.Email.Infra\\Delivery.Email.Infra.csproj|d:\\projects\\fiap\\delivery.email\\delivery.email.infra\\delivery.email.infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{C460C7E3-0DC2-4DD1-A209-1C2019C19397}|Delivery.Email.Infra\\Delivery.Email.Infra.csproj|c:\\acad\u00EAmico\\cursos\\postech\\projetos\\fase4\\04\\delivery.email\\delivery.email.infra\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C460C7E3-0DC2-4DD1-A209-1C2019C19397}|Delivery.Email.Infra\\Delivery.Email.Infra.csproj|solutionrelative:delivery.email.infra\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45AC0DA3-B3E9-4AB9-A794-07FFB80DCDC7}|Delivery.Email.Infra.Tests\\Delivery.Email.Infra.Tests.csproj|c:\\acad\u00EAmico\\cursos\\postech\\projetos\\fase4\\04\\delivery.email\\delivery.email.infra.tests\\service\\emailservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45AC0DA3-B3E9-4AB9-A794-07FFB80DCDC7}|Delivery.Email.Infra.Tests\\Delivery.Email.Infra.Tests.csproj|solutionrelative:delivery.email.infra.tests\\service\\emailservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|c:\\acad\u00EAmico\\cursos\\postech\\projetos\\fase4\\04\\delivery.email\\delivery.email\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|solutionrelative:delivery.email\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C460C7E3-0DC2-4DD1-A209-1C2019C19397}|Delivery.Email.Infra\\Delivery.Email.Infra.csproj|c:\\acad\u00EAmico\\cursos\\postech\\projetos\\fase4\\04\\delivery.email\\delivery.email.infra\\connections\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C460C7E3-0DC2-4DD1-A209-1C2019C19397}|Delivery.Email.Infra\\Delivery.Email.Infra.csproj|solutionrelative:delivery.email.infra\\connections\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|c:\\acad\u00EAmico\\cursos\\postech\\projetos\\fase4\\04\\delivery.email\\delivery.email\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|solutionrelative:delivery.email\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|c:\\acad\u00EAmico\\cursos\\postech\\projetos\\fase4\\04\\delivery.email\\delivery.email\\configuration\\rabbitconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|solutionrelative:delivery.email\\configuration\\rabbitconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|c:\\acad\u00EAmico\\cursos\\postech\\projetos\\fase4\\04\\delivery.email\\delivery.email\\configuration\\emailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|solutionrelative:delivery.email\\configuration\\emailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5798673-018F-41B5-AE4F-5A9AB7151EED}|Delivery.Email.Core\\Delivery.Email.Core.csproj|c:\\acad\u00EAmico\\cursos\\postech\\projetos\\fase4\\04\\delivery.email\\delivery.email.core\\domain\\pessoafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5798673-018F-41B5-AE4F-5A9AB7151EED}|Delivery.Email.Core\\Delivery.Email.Core.csproj|solutionrelative:delivery.email.core\\domain\\pessoafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45AC0DA3-B3E9-4AB9-A794-07FFB80DCDC7}|Delivery.Email.Infra.Tests\\Delivery.Email.Infra.Tests.csproj|c:\\acad\u00EAmico\\cursos\\postech\\projetos\\fase4\\04\\delivery.email\\delivery.email.infra.tests\\delivery.email.infra.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{45AC0DA3-B3E9-4AB9-A794-07FFB80DCDC7}|Delivery.Email.Infra.Tests\\Delivery.Email.Infra.Tests.csproj|solutionrelative:delivery.email.infra.tests\\delivery.email.infra.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C460C7E3-0DC2-4DD1-A209-1C2019C19397}|Delivery.Email.Infra\\Delivery.Email.Infra.csproj|c:\\acad\u00EAmico\\cursos\\postech\\projetos\\fase4\\04\\delivery.email\\delivery.email.infra\\delivery.email.infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{C460C7E3-0DC2-4DD1-A209-1C2019C19397}|Delivery.Email.Infra\\Delivery.Email.Infra.csproj|solutionrelative:delivery.email.infra\\delivery.email.infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|d:\\projects\\fiap\\delivery.email\\delivery.email\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|c:\\acad\u00EAmico\\cursos\\postech\\projetos\\fase4\\04\\delivery.email\\delivery.email\\application\\rabbitconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|solutionrelative:delivery.email\\application\\rabbitconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|c:\\acad\u00EAmico\\cursos\\postech\\projetos\\fase4\\04\\delivery.email\\delivery.email\\application\\messagebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|solutionrelative:delivery.email\\application\\messagebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|c:\\acad\u00EAmico\\cursos\\postech\\projetos\\fase4\\04\\delivery.email\\delivery.email\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|solutionrelative:delivery.email\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|c:\\acad\u00EAmico\\cursos\\postech\\projetos\\fase4\\04\\delivery.email\\delivery.email\\delivery.email.worker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|solutionrelative:delivery.email\\delivery.email.worker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|c:\\acad\u00EAmico\\cursos\\postech\\projetos\\fase4\\04\\delivery.email\\delivery.email\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|solutionrelative:delivery.email\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|c:\\acad\u00EAmico\\cursos\\postech\\projetos\\fase4\\04\\delivery.email\\delivery.email\\application\\interfaces\\irabbitconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|solutionrelative:delivery.email\\application\\interfaces\\irabbitconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|c:\\acad\u00EAmico\\cursos\\postech\\projetos\\fase4\\04\\delivery.email\\delivery.email\\application\\interfaces\\imessagebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|solutionrelative:delivery.email\\application\\interfaces\\imessagebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|c:\\acad\u00EAmico\\cursos\\postech\\projetos\\fase4\\04\\delivery.email\\delivery.email\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|solutionrelative:delivery.email\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|d:\\projects\\fiap\\delivery.email\\delivery.email\\delivery.email.worker.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|c:\\acad\u00EAmico\\cursos\\postech\\projetos\\fase4\\04\\delivery.email\\delivery.email\\delivery.email.worker.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|solutionrelative:delivery.email\\delivery.email.worker.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
@@ -82,15 +90,105 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 35,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
+              "Title": "Delivery.Email.Infra.Tests",
+              "DocumentMoniker": "C:\\Acad\u00EAmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email.Infra.Tests\\Delivery.Email.Infra.Tests.csproj",
+              "RelativeDocumentMoniker": "Delivery.Email.Infra.Tests\\Delivery.Email.Infra.Tests.csproj",
+              "ToolTip": "C:\\Acad\u00EAmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email.Infra.Tests\\Delivery.Email.Infra.Tests.csproj",
+              "RelativeToolTip": "Delivery.Email.Infra.Tests\\Delivery.Email.Infra.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-16T00:02:01.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailServiceTests.cs",
+              "DocumentMoniker": "C:\\Acad\u00EAmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email.Infra.Tests\\Service\\EmailServiceTests.cs",
+              "RelativeDocumentMoniker": "Delivery.Email.Infra.Tests\\Service\\EmailServiceTests.cs",
+              "ToolTip": "C:\\Acad\u00EAmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email.Infra.Tests\\Service\\EmailServiceTests.cs",
+              "RelativeToolTip": "Delivery.Email.Infra.Tests\\Service\\EmailServiceTests.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T00:00:07.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Delivery.Email.Worker.csproj",
-              "DocumentMoniker": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\Delivery.Email.Worker.csproj",
+              "DocumentMoniker": "C:\\Acad\u00EAmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email\\Delivery.Email.Worker.csproj",
               "RelativeDocumentMoniker": "Delivery.Email\\Delivery.Email.Worker.csproj",
-              "ToolTip": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\Delivery.Email.Worker.csproj",
+              "ToolTip": "C:\\Acad\u00EAmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email\\Delivery.Email.Worker.csproj",
               "RelativeToolTip": "Delivery.Email\\Delivery.Email.Worker.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -98,11 +196,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\appsettings.Development.json",
+              "DocumentMoniker": "C:\\Acad\u00EAmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Delivery.Email\\appsettings.Development.json",
-              "ToolTip": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\appsettings.Development.json",
+              "ToolTip": "C:\\Acad\u00EAmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email\\appsettings.Development.json",
               "RelativeToolTip": "Delivery.Email\\appsettings.Development.json",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -110,11 +208,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\appsettings.json",
+              "DocumentMoniker": "C:\\Acad\u00EAmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email\\appsettings.json",
               "RelativeDocumentMoniker": "Delivery.Email\\appsettings.json",
-              "ToolTip": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\appsettings.json",
+              "ToolTip": "C:\\Acad\u00EAmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email\\appsettings.json",
               "RelativeToolTip": "Delivery.Email\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -122,35 +220,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
               "Title": "RabbitConfiguration.cs",
-              "DocumentMoniker": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\Configuration\\RabbitConfiguration.cs",
+              "DocumentMoniker": "C:\\Acad\u00EAmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email\\Configuration\\RabbitConfiguration.cs",
               "RelativeDocumentMoniker": "Delivery.Email\\Configuration\\RabbitConfiguration.cs",
-              "ToolTip": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\Configuration\\RabbitConfiguration.cs",
+              "ToolTip": "C:\\Acad\u00EAmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email\\Configuration\\RabbitConfiguration.cs",
               "RelativeToolTip": "Delivery.Email\\Configuration\\RabbitConfiguration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-29T02:27:50.17Z"
+              "WhenOpened": "2023-12-29T02:27:50.17Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
               "Title": "EmailConfiguration.cs",
-              "DocumentMoniker": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\Configuration\\EmailConfiguration.cs",
+              "DocumentMoniker": "C:\\Acad\u00EAmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email\\Configuration\\EmailConfiguration.cs",
               "RelativeDocumentMoniker": "Delivery.Email\\Configuration\\EmailConfiguration.cs",
-              "ToolTip": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\Configuration\\EmailConfiguration.cs",
+              "ToolTip": "C:\\Acad\u00EAmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email\\Configuration\\EmailConfiguration.cs",
               "RelativeToolTip": "Delivery.Email\\Configuration\\EmailConfiguration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-29T02:27:48.003Z"
+              "WhenOpened": "2023-12-29T02:27:48.003Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "MessageBus.cs",
-              "DocumentMoniker": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\Application\\MessageBus.cs",
+              "DocumentMoniker": "C:\\Acad\u00EAmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email\\Application\\MessageBus.cs",
               "RelativeDocumentMoniker": "Delivery.Email\\Application\\MessageBus.cs",
-              "ToolTip": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\Application\\MessageBus.cs",
+              "ToolTip": "C:\\Acad\u00EAmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email\\Application\\MessageBus.cs",
               "RelativeToolTip": "Delivery.Email\\Application\\MessageBus.cs",
               "ViewState": "AQIAACIAAAAAAAAAAAAAACcAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -158,72 +258,76 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Worker.cs",
-              "DocumentMoniker": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\Worker.cs",
+              "DocumentMoniker": "C:\\Acad\u00EAmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email\\Worker.cs",
               "RelativeDocumentMoniker": "Delivery.Email\\Worker.cs",
-              "ToolTip": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\Worker.cs",
+              "ToolTip": "C:\\Acad\u00EAmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email\\Worker.cs",
               "RelativeToolTip": "Delivery.Email\\Worker.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAfAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAA8wCgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2023-12-25T03:38:29.365Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "PessoaFisica.cs",
-              "DocumentMoniker": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email.Core\\Domain\\PessoaFisica.cs",
+              "DocumentMoniker": "C:\\Acad\u00EAmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email.Core\\Domain\\PessoaFisica.cs",
               "RelativeDocumentMoniker": "Delivery.Email.Core\\Domain\\PessoaFisica.cs",
-              "ToolTip": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email.Core\\Domain\\PessoaFisica.cs",
+              "ToolTip": "C:\\Acad\u00EAmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email.Core\\Domain\\PessoaFisica.cs",
               "RelativeToolTip": "Delivery.Email.Core\\Domain\\PessoaFisica.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAIwAwAAAAiAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAUAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T22:51:39.367Z"
+              "WhenOpened": "2024-05-13T22:51:39.367Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\Program.cs",
+              "DocumentMoniker": "C:\\Acad\u00EAmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email\\Program.cs",
               "RelativeDocumentMoniker": "Delivery.Email\\Program.cs",
-              "ToolTip": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\Program.cs",
+              "ToolTip": "C:\\Acad\u00EAmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email\\Program.cs",
               "RelativeToolTip": "Delivery.Email\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwBAAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-24T02:03:26.242Z"
+              "WhenOpened": "2023-12-24T02:03:26.242Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "Configuration.cs",
-              "DocumentMoniker": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email.Infra\\Connections\\Configuration.cs",
+              "DocumentMoniker": "C:\\Acad\u00EAmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email.Infra\\Connections\\Configuration.cs",
               "RelativeDocumentMoniker": "Delivery.Email.Infra\\Connections\\Configuration.cs",
-              "ToolTip": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email.Infra\\Connections\\Configuration.cs",
+              "ToolTip": "C:\\Acad\u00EAmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email.Infra\\Connections\\Configuration.cs",
               "RelativeToolTip": "Delivery.Email.Infra\\Connections\\Configuration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-26T01:40:58.558Z"
+              "WhenOpened": "2023-12-26T01:40:58.558Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 10,
               "Title": "Delivery.Email.Infra.csproj",
-              "DocumentMoniker": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email.Infra\\Delivery.Email.Infra.csproj",
+              "DocumentMoniker": "C:\\Acad\u00EAmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email.Infra\\Delivery.Email.Infra.csproj",
               "RelativeDocumentMoniker": "Delivery.Email.Infra\\Delivery.Email.Infra.csproj",
-              "ToolTip": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email.Infra\\Delivery.Email.Infra.csproj",
+              "ToolTip": "C:\\Acad\u00EAmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email.Infra\\Delivery.Email.Infra.csproj",
               "RelativeToolTip": "Delivery.Email.Infra\\Delivery.Email.Infra.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2023-12-26T01:24:48.505Z"
+              "WhenOpened": "2023-12-26T01:24:48.505Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "IMessageBus.cs",
-              "DocumentMoniker": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\Application\\Interfaces\\IMessageBus.cs",
+              "DocumentMoniker": "C:\\Acad\u00EAmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email\\Application\\Interfaces\\IMessageBus.cs",
               "RelativeDocumentMoniker": "Delivery.Email\\Application\\Interfaces\\IMessageBus.cs",
-              "ToolTip": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\Application\\Interfaces\\IMessageBus.cs",
+              "ToolTip": "C:\\Acad\u00EAmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email\\Application\\Interfaces\\IMessageBus.cs",
               "RelativeToolTip": "Delivery.Email\\Application\\Interfaces\\IMessageBus.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -231,35 +335,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "RabbitConnect.cs",
-              "DocumentMoniker": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\Application\\RabbitConnect.cs",
+              "DocumentMoniker": "C:\\Acad\u00EAmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email\\Application\\RabbitConnect.cs",
               "RelativeDocumentMoniker": "Delivery.Email\\Application\\RabbitConnect.cs",
-              "ToolTip": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\Application\\RabbitConnect.cs",
+              "ToolTip": "C:\\Acad\u00EAmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email\\Application\\RabbitConnect.cs",
               "RelativeToolTip": "Delivery.Email\\Application\\RabbitConnect.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAqwAkAAABCAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAA6wAkAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2023-12-25T19:30:33.457Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "EmailService.cs",
-              "DocumentMoniker": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email.Infra\\Service\\EmailService.cs",
+              "DocumentMoniker": "C:\\Acad\u00EAmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email.Infra\\Service\\EmailService.cs",
               "RelativeDocumentMoniker": "Delivery.Email.Infra\\Service\\EmailService.cs",
-              "ToolTip": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email.Infra\\Service\\EmailService.cs",
+              "ToolTip": "C:\\Acad\u00EAmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email.Infra\\Service\\EmailService.cs",
               "RelativeToolTip": "Delivery.Email.Infra\\Service\\EmailService.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAARAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAABaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-29T03:29:28.753Z"
+              "WhenOpened": "2023-12-29T03:29:28.753Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "IRabbitConnect.cs",
-              "DocumentMoniker": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\Application\\Interfaces\\IRabbitConnect.cs",
+              "DocumentMoniker": "C:\\Acad\u00EAmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email\\Application\\Interfaces\\IRabbitConnect.cs",
               "RelativeDocumentMoniker": "Delivery.Email\\Application\\Interfaces\\IRabbitConnect.cs",
-              "ToolTip": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\Application\\Interfaces\\IRabbitConnect.cs",
+              "ToolTip": "C:\\Acad\u00EAmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email\\Application\\Interfaces\\IRabbitConnect.cs",
               "RelativeToolTip": "Delivery.Email\\Application\\Interfaces\\IRabbitConnect.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -267,11 +372,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Acad\u00EAmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Delivery.Email\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Acad\u00EAmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email\\Properties\\launchSettings.json",
               "RelativeToolTip": "Delivery.Email\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -279,26 +384,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Delivery.Email.Worker",
-              "DocumentMoniker": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\Delivery.Email.Worker.csproj",
+              "DocumentMoniker": "C:\\Acad\u00EAmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email\\Delivery.Email.Worker.csproj",
               "RelativeDocumentMoniker": "Delivery.Email\\Delivery.Email.Worker.csproj",
-              "ToolTip": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\Delivery.Email.Worker.csproj",
+              "ToolTip": "C:\\Acad\u00EAmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email\\Delivery.Email.Worker.csproj",
               "RelativeToolTip": "Delivery.Email\\Delivery.Email.Worker.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2023-12-25T04:02:15.851Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 0,
               "Title": "DependencyInjectionConfig.cs",
-              "DocumentMoniker": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\Configuration\\DependencyInjectionConfig.cs",
+              "DocumentMoniker": "C:\\Acad\u00EAmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email\\Configuration\\DependencyInjectionConfig.cs",
               "RelativeDocumentMoniker": "Delivery.Email\\Configuration\\DependencyInjectionConfig.cs",
-              "ToolTip": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\Configuration\\DependencyInjectionConfig.cs",
+              "ToolTip": "C:\\Acad\u00EAmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email\\Configuration\\DependencyInjectionConfig.cs",
               "RelativeToolTip": "Delivery.Email\\Configuration\\DependencyInjectionConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-24T02:06:58.458Z"
+              "WhenOpened": "2023-12-24T02:06:58.458Z",
+              "EditorCaption": ""
             }
           ]
         }
