@@ -3,12 +3,23 @@
   "WorkspaceRootPath": "D:\\Projects\\FIAP\\Delivery.Email\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|d:\\projects\\fiap\\delivery.email\\delivery.email\\configuration\\dependencyinjectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|solutionrelative:delivery.email\\configuration\\dependencyinjectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C460C7E3-0DC2-4DD1-A209-1C2019C19397}|Delivery.Email.Infra\\Delivery.Email.Infra.csproj|d:\\projects\\fiap\\delivery.email\\delivery.email.infra\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C460C7E3-0DC2-4DD1-A209-1C2019C19397}|Delivery.Email.Infra\\Delivery.Email.Infra.csproj|solutionrelative:delivery.email.infra\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C460C7E3-0DC2-4DD1-A209-1C2019C19397}|Delivery.Email.Infra\\Delivery.Email.Infra.csproj|d:\\projects\\fiap\\delivery.email\\delivery.email.infra\\repositorio\\pessoarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C460C7E3-0DC2-4DD1-A209-1C2019C19397}|Delivery.Email.Infra\\Delivery.Email.Infra.csproj|solutionrelative:delivery.email.infra\\repositorio\\pessoarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|d:\\projects\\fiap\\delivery.email\\delivery.email\\configuration\\dependencyinjectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|solutionrelative:delivery.email\\configuration\\dependencyinjectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|d:\\projects\\fiap\\delivery.email\\delivery.email\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E2730DEA-B244-4D86-A279-B3D95D9DFACC}|Delivery.Email\\Delivery.Email.Worker.csproj|solutionrelative:delivery.email\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C5798673-018F-41B5-AE4F-5A9AB7151EED}|Delivery.Email.Core\\Delivery.Email.Core.csproj|d:\\projects\\fiap\\delivery.email\\delivery.email.core\\domain\\pessoafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -90,11 +101,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email.Infra\\Service\\EmailService.cs",
+              "RelativeDocumentMoniker": "Delivery.Email.Infra\\Service\\EmailService.cs",
+              "ToolTip": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email.Infra\\Service\\EmailService.cs",
+              "RelativeToolTip": "Delivery.Email.Infra\\Service\\EmailService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAMwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T01:40:34.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAANUVAAAAAAAAAAAWwNwVAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-07-16T01:38:57.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\Dockerfile",
+              "RelativeDocumentMoniker": "Delivery.Email\\Dockerfile",
+              "ToolTip": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\Dockerfile",
+              "RelativeToolTip": "Delivery.Email\\Dockerfile",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-16T01:30:06.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "PessoaFisica.cs",
               "DocumentMoniker": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email.Core\\Domain\\PessoaFisica.cs",
               "RelativeDocumentMoniker": "Delivery.Email.Core\\Domain\\PessoaFisica.cs",
@@ -107,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "EmailConfiguration.cs",
               "DocumentMoniker": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email.Core\\Configuration\\EmailConfiguration.cs",
               "RelativeDocumentMoniker": "Delivery.Email.Core\\Configuration\\EmailConfiguration.cs",
@@ -120,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Configuration.cs",
               "DocumentMoniker": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email.Core\\Configuration\\Configuration.cs",
               "RelativeDocumentMoniker": "Delivery.Email.Core\\Configuration\\Configuration.cs",
@@ -133,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Endereco.cs",
               "DocumentMoniker": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email.Core\\Domain\\Endereco.cs",
               "RelativeDocumentMoniker": "Delivery.Email.Core\\Domain\\Endereco.cs",
@@ -146,20 +194,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Delivery.Email.Core.csproj",
               "DocumentMoniker": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email.Core\\Delivery.Email.Core.csproj",
               "RelativeDocumentMoniker": "Delivery.Email.Core\\Delivery.Email.Core.csproj",
               "ToolTip": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email.Core\\Delivery.Email.Core.csproj",
               "RelativeToolTip": "Delivery.Email.Core\\Delivery.Email.Core.csproj",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAABBwAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-07-16T01:06:40.99Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "RabbitConfiguration.cs",
               "DocumentMoniker": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email.Core\\Configuration\\RabbitConfiguration.cs",
               "RelativeDocumentMoniker": "Delivery.Email.Core\\Configuration\\RabbitConfiguration.cs",
@@ -172,19 +220,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "MessageBus.cs",
               "DocumentMoniker": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\Application\\MessageBus.cs",
               "RelativeDocumentMoniker": "Delivery.Email\\Application\\MessageBus.cs",
               "ToolTip": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\Application\\MessageBus.cs",
               "RelativeToolTip": "Delivery.Email\\Application\\MessageBus.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T01:06:41.063Z"
+              "WhenOpened": "2024-07-16T01:06:41.063Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\Program.cs",
               "RelativeDocumentMoniker": "Delivery.Email\\Program.cs",
@@ -192,11 +241,12 @@
               "RelativeToolTip": "Delivery.Email\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T01:06:41.065Z"
+              "WhenOpened": "2024-07-16T01:06:41.065Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Worker.cs",
               "DocumentMoniker": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\Worker.cs",
               "RelativeDocumentMoniker": "Delivery.Email\\Worker.cs",
@@ -209,32 +259,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "RabbitConnect.cs",
               "DocumentMoniker": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\Application\\RabbitConnect.cs",
               "RelativeDocumentMoniker": "Delivery.Email\\Application\\RabbitConnect.cs",
               "ToolTip": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\Application\\RabbitConnect.cs",
               "RelativeToolTip": "Delivery.Email\\Application\\RabbitConnect.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAABQwAkAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T01:06:40.955Z"
+              "WhenOpened": "2024-07-16T01:06:40.955Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PessoaRepositorio.cs",
               "DocumentMoniker": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email.Infra\\Repositorio\\PessoaRepositorio.cs",
               "RelativeDocumentMoniker": "Delivery.Email.Infra\\Repositorio\\PessoaRepositorio.cs",
               "ToolTip": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email.Infra\\Repositorio\\PessoaRepositorio.cs",
               "RelativeToolTip": "Delivery.Email.Infra\\Repositorio\\PessoaRepositorio.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-16T01:06:41.067Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "IRabbitConnect.cs",
               "DocumentMoniker": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\Application\\Interfaces\\IRabbitConnect.cs",
               "RelativeDocumentMoniker": "Delivery.Email\\Application\\Interfaces\\IRabbitConnect.cs",
@@ -242,11 +293,12 @@
               "RelativeToolTip": "Delivery.Email\\Application\\Interfaces\\IRabbitConnect.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T01:06:41.072Z"
+              "WhenOpened": "2024-07-16T01:06:41.072Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "DependencyInjectionConfig.cs",
               "DocumentMoniker": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\Configuration\\DependencyInjectionConfig.cs",
               "RelativeDocumentMoniker": "Delivery.Email\\Configuration\\DependencyInjectionConfig.cs",
@@ -259,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "Delivery.Email.Infra.csproj",
               "DocumentMoniker": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email.Infra\\Delivery.Email.Infra.csproj",
               "RelativeDocumentMoniker": "Delivery.Email.Infra\\Delivery.Email.Infra.csproj",
@@ -272,7 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\appsettings.json",
               "RelativeDocumentMoniker": "Delivery.Email\\appsettings.json",
@@ -285,7 +337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "IEmailService.cs",
               "DocumentMoniker": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\Application\\Interfaces\\IEmailService.cs",
               "RelativeDocumentMoniker": "Delivery.Email\\Application\\Interfaces\\IEmailService.cs",
@@ -293,11 +345,12 @@
               "RelativeToolTip": "Delivery.Email\\Application\\Interfaces\\IEmailService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T01:06:40.981Z"
+              "WhenOpened": "2024-07-16T01:06:40.981Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "EmailService.cs",
               "DocumentMoniker": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\Application\\EmailService.cs",
               "RelativeDocumentMoniker": "Delivery.Email\\Application\\EmailService.cs",
@@ -305,35 +358,38 @@
               "RelativeToolTip": "Delivery.Email\\Application\\EmailService.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T01:06:40.977Z"
+              "WhenOpened": "2024-07-16T01:06:40.977Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Delivery.Email\\appsettings.Development.json",
               "ToolTip": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\appsettings.Development.json",
               "RelativeToolTip": "Delivery.Email\\appsettings.Development.json",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAjAAAA",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBMAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-16T01:06:41.085Z"
+              "WhenOpened": "2024-07-16T01:06:41.085Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Delivery.Email\\Properties\\launchSettings.json",
               "ToolTip": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\Properties\\launchSettings.json",
               "RelativeToolTip": "Delivery.Email\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-16T01:06:41.093Z"
+              "WhenOpened": "2024-07-16T01:06:41.093Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "Delivery.Email.Worker",
               "DocumentMoniker": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\Delivery.Email.Worker.csproj",
               "RelativeDocumentMoniker": "Delivery.Email\\Delivery.Email.Worker.csproj",

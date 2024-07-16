@@ -26,6 +26,34 @@ services:
     networks:
         - rabbitmq_go_net
 
+  api-identidade:
+        image: cadastro-api:latest
+        container_name: Cadastro-API 
+        build: 
+            dockerfile: ./Cadastro-API/Cadastro-API/Dockerfile  
+        restart: always    
+        environment: 
+            - ASPNETCORE_ENVIRONMENT=Production
+            - ASPNETCORE_URLS=https://+:5101;http://+5102
+            - ASPNETCORE_Kestrel__Certificates__Default__Password=nerdstore
+            - ASPNETCORE_Kestrel__Certificates__Default__Path=/https/nerdstore-certificate.pfx
+        volumes:
+            - ./certs:/https:ro
+        
+  api-carrinho:
+        image: delivery.email:latest
+        container_name: Delivery.Email
+        build: 
+            dockerfile: ./Delivery.Email/Delivery.Email/Dockerfile      
+        restart: always             
+        environment: 
+            - ASPNETCORE_ENVIRONMENT=Production
+            - ASPNETCORE_URLS=https://+:5201;http://+5202
+            - ASPNETCORE_Kestrel__Certificates__Default__Password=nerdstore
+            - ASPNETCORE_Kestrel__Certificates__Default__Path=/https/nerdstore-certificate.pfx
+        volumes:
+            - ./certs:/https:ro
+
 networks:
   rabbitmq_go_net:
     driver: bridge

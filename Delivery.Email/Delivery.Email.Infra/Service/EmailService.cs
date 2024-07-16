@@ -9,12 +9,12 @@ namespace Delivery.Email.Infra.Service
     {
         private readonly IMongoCollection<PessoaFisica> _EmailCollection;
 
-        public EmailService(IMongoClient client, IOptions<BookStoreDatabaseSettings> EmailDatabaseSettings)
+        public EmailService(IMongoClient client, IOptions<PessoaDatabaseSettings> EmailDatabaseSettings)
         {
             var mongoDatabase = client.GetDatabase(EmailDatabaseSettings.Value.DatabaseName);
 
             _EmailCollection = mongoDatabase.GetCollection<PessoaFisica>(
-                EmailDatabaseSettings.Value.BooksCollectionName);
+                EmailDatabaseSettings.Value.PessoaCollectionName);
         }
 
         public async Task<List<PessoaFisica>> GetAsync() =>
