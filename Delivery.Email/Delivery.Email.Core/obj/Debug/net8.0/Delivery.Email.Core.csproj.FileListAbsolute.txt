@@ -10,6 +10,7 @@ D:\Projects\Delivery.Email\Delivery.Email.Core\obj\Debug\net8.0\refint\Delivery.
 D:\Projects\Delivery.Email\Delivery.Email.Core\obj\Debug\net8.0\Delivery.Email.Core.pdb
 D:\Projects\Delivery.Email\Delivery.Email.Core\obj\Debug\net8.0\ref\Delivery.Email.Core.dll
 D:\Projects\Delivery.Email\Delivery.Email.Core\obj\Debug\net8.0\Delivery.Email.Core.csproj.AssemblyReference.cache
+<<<<<<< HEAD
 D:\FIAP\FIAP\Delivery.Email\Delivery.Email.Core\bin\Debug\net8.0\Delivery.Email.Core.deps.json
 D:\FIAP\FIAP\Delivery.Email\Delivery.Email.Core\bin\Debug\net8.0\Delivery.Email.Core.dll
 D:\FIAP\FIAP\Delivery.Email\Delivery.Email.Core\bin\Debug\net8.0\Delivery.Email.Core.pdb
@@ -22,3 +23,18 @@ D:\FIAP\FIAP\Delivery.Email\Delivery.Email.Core\obj\Debug\net8.0\Delivery.Email.
 D:\FIAP\FIAP\Delivery.Email\Delivery.Email.Core\obj\Debug\net8.0\refint\Delivery.Email.Core.dll
 D:\FIAP\FIAP\Delivery.Email\Delivery.Email.Core\obj\Debug\net8.0\Delivery.Email.Core.pdb
 D:\FIAP\FIAP\Delivery.Email\Delivery.Email.Core\obj\Debug\net8.0\ref\Delivery.Email.Core.dll
+=======
+C:\Acadêmico\Cursos\PosTech\Projetos\Fase4\04\Delivery.Email\Delivery.Email.Core\bin\Debug\net8.0\Delivery.Email.Core.deps.json
+C:\Acadêmico\Cursos\PosTech\Projetos\Fase4\04\Delivery.Email\Delivery.Email.Core\bin\Debug\net8.0\Delivery.Email.Core.dll
+C:\Acadêmico\Cursos\PosTech\Projetos\Fase4\04\Delivery.Email\Delivery.Email.Core\bin\Debug\net8.0\Delivery.Email.Core.pdb
+C:\Acadêmico\Cursos\PosTech\Projetos\Fase4\04\Delivery.Email\Delivery.Email.Core\obj\Debug\net8.0\Delivery.Email.Core.csproj.AssemblyReference.cache
+C:\Acadêmico\Cursos\PosTech\Projetos\Fase4\04\Delivery.Email\Delivery.Email.Core\obj\Debug\net8.0\Delivery.Email.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Acadêmico\Cursos\PosTech\Projetos\Fase4\04\Delivery.Email\Delivery.Email.Core\obj\Debug\net8.0\Delivery.Email.Core.AssemblyInfoInputs.cache
+C:\Acadêmico\Cursos\PosTech\Projetos\Fase4\04\Delivery.Email\Delivery.Email.Core\obj\Debug\net8.0\Delivery.Email.Core.AssemblyInfo.cs
+C:\Acadêmico\Cursos\PosTech\Projetos\Fase4\04\Delivery.Email\Delivery.Email.Core\obj\Debug\net8.0\Delivery.Email.Core.csproj.CoreCompileInputs.cache
+C:\Acadêmico\Cursos\PosTech\Projetos\Fase4\04\Delivery.Email\Delivery.Email.Core\obj\Debug\net8.0\Delivery.Email.Core.sourcelink.json
+C:\Acadêmico\Cursos\PosTech\Projetos\Fase4\04\Delivery.Email\Delivery.Email.Core\obj\Debug\net8.0\Delivery.Email.Core.dll
+C:\Acadêmico\Cursos\PosTech\Projetos\Fase4\04\Delivery.Email\Delivery.Email.Core\obj\Debug\net8.0\refint\Delivery.Email.Core.dll
+C:\Acadêmico\Cursos\PosTech\Projetos\Fase4\04\Delivery.Email\Delivery.Email.Core\obj\Debug\net8.0\Delivery.Email.Core.pdb
+C:\Acadêmico\Cursos\PosTech\Projetos\Fase4\04\Delivery.Email\Delivery.Email.Core\obj\Debug\net8.0\ref\Delivery.Email.Core.dll
+>>>>>>> 28ebd5f30ff01dffc3dcddfaaa8f27897542d4cc

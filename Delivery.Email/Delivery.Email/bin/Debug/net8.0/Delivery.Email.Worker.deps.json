@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v8.0": {
       "Delivery.Email.Worker/1.0.0": {
         "dependencies": {
-          "Delivery.Core": "2.0.1",
+          "Delivery.Core": "2.0.3",
           "Delivery.Email.Core": "1.0.0",
           "Delivery.Email.Infra": "1.0.0",
           "Microsoft.Extensions.Hosting": "7.0.0",
@@ -47,7 +47,7 @@
           }
         }
       },
-      "Delivery.Core/2.0.1": {
+      "Delivery.Core/2.0.3": {
         "dependencies": {
           "FluentValidation": "11.8.1",
           "Microsoft.Extensions.Configuration.Abstractions": "8.0.0",
@@ -60,8 +60,8 @@
         },
         "runtime": {
           "lib/net8.0/Delivery.Core.dll": {
-            "assemblyVersion": "2.0.1.0",
-            "fileVersion": "2.0.1.0"
+            "assemblyVersion": "2.0.3.0",
+            "fileVersion": "2.0.3.0"
           }
         }
       },
@@ -702,12 +702,12 @@
       "path": "dapper/2.1.24",
       "hashPath": "dapper.2.1.24.nupkg.sha512"
     },
-    "Delivery.Core/2.0.1": {
+    "Delivery.Core/2.0.3": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-e/v0uVmpkTSDOZJBtlu2qIXh2kHHjwk3b1ZphQjIYblu8jhL/A1vHcoDqc42+wd15xLS+SY8h3QBvWEfNk8N0A==",
-      "path": "delivery.core/2.0.1",
-      "hashPath": "delivery.core.2.0.1.nupkg.sha512"
+      "sha512": "sha512-1V03vr4ScnRFM48bPeFlNFD4Q3WGjOnh1Nn4B8kNfj2FNdMUIRpGZT1QGAMEC1PjVHSYX0bufGYn/oIrH7gOJw==",
+      "path": "delivery.core/2.0.3",
+      "hashPath": "delivery.core.2.0.3.nupkg.sha512"
     },
     "DnsClient/1.6.1": {
       "type": "package",

@@ -13,6 +13,7 @@ D:\Projects\Delivery.Email\Delivery.Email.Infra\obj\Debug\net8.0\refint\Delivery
 D:\Projects\Delivery.Email\Delivery.Email.Infra\obj\Debug\net8.0\Delivery.Email.Infra.pdb
 D:\Projects\Delivery.Email\Delivery.Email.Infra\obj\Debug\net8.0\ref\Delivery.Email.Infra.dll
 D:\Projects\Delivery.Email\Delivery.Email.Infra\obj\Debug\net8.0\Delivery.3FB8EDD0.Up2Date
+<<<<<<< HEAD
 D:\FIAP\FIAP\Delivery.Email\Delivery.Email.Infra\bin\Debug\net8.0\Delivery.Email.Infra.deps.json
 D:\FIAP\FIAP\Delivery.Email\Delivery.Email.Infra\bin\Debug\net8.0\Delivery.Email.Infra.dll
 D:\FIAP\FIAP\Delivery.Email\Delivery.Email.Infra\bin\Debug\net8.0\Delivery.Email.Infra.pdb
@@ -28,3 +29,21 @@ D:\FIAP\FIAP\Delivery.Email\Delivery.Email.Infra\obj\Debug\net8.0\Delivery.Email
 D:\FIAP\FIAP\Delivery.Email\Delivery.Email.Infra\obj\Debug\net8.0\refint\Delivery.Email.Infra.dll
 D:\FIAP\FIAP\Delivery.Email\Delivery.Email.Infra\obj\Debug\net8.0\Delivery.Email.Infra.pdb
 D:\FIAP\FIAP\Delivery.Email\Delivery.Email.Infra\obj\Debug\net8.0\ref\Delivery.Email.Infra.dll
+=======
+C:\Acadêmico\Cursos\PosTech\Projetos\Fase4\04\Delivery.Email\Delivery.Email.Infra\bin\Debug\net8.0\Delivery.Email.Infra.deps.json
+C:\Acadêmico\Cursos\PosTech\Projetos\Fase4\04\Delivery.Email\Delivery.Email.Infra\bin\Debug\net8.0\Delivery.Email.Infra.dll
+C:\Acadêmico\Cursos\PosTech\Projetos\Fase4\04\Delivery.Email\Delivery.Email.Infra\bin\Debug\net8.0\Delivery.Email.Infra.pdb
+C:\Acadêmico\Cursos\PosTech\Projetos\Fase4\04\Delivery.Email\Delivery.Email.Infra\bin\Debug\net8.0\Delivery.Email.Core.dll
+C:\Acadêmico\Cursos\PosTech\Projetos\Fase4\04\Delivery.Email\Delivery.Email.Infra\bin\Debug\net8.0\Delivery.Email.Core.pdb
+C:\Acadêmico\Cursos\PosTech\Projetos\Fase4\04\Delivery.Email\Delivery.Email.Infra\obj\Debug\net8.0\Delivery.Email.Infra.csproj.AssemblyReference.cache
+C:\Acadêmico\Cursos\PosTech\Projetos\Fase4\04\Delivery.Email\Delivery.Email.Infra\obj\Debug\net8.0\Delivery.Email.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Acadêmico\Cursos\PosTech\Projetos\Fase4\04\Delivery.Email\Delivery.Email.Infra\obj\Debug\net8.0\Delivery.Email.Infra.AssemblyInfoInputs.cache
+C:\Acadêmico\Cursos\PosTech\Projetos\Fase4\04\Delivery.Email\Delivery.Email.Infra\obj\Debug\net8.0\Delivery.Email.Infra.AssemblyInfo.cs
+C:\Acadêmico\Cursos\PosTech\Projetos\Fase4\04\Delivery.Email\Delivery.Email.Infra\obj\Debug\net8.0\Delivery.Email.Infra.csproj.CoreCompileInputs.cache
+C:\Acadêmico\Cursos\PosTech\Projetos\Fase4\04\Delivery.Email\Delivery.Email.Infra\obj\Debug\net8.0\Delivery.Email.Infra.sourcelink.json
+C:\Acadêmico\Cursos\PosTech\Projetos\Fase4\04\Delivery.Email\Delivery.Email.Infra\obj\Debug\net8.0\Delivery.3FB8EDD0.Up2Date
+C:\Acadêmico\Cursos\PosTech\Projetos\Fase4\04\Delivery.Email\Delivery.Email.Infra\obj\Debug\net8.0\Delivery.Email.Infra.dll
+C:\Acadêmico\Cursos\PosTech\Projetos\Fase4\04\Delivery.Email\Delivery.Email.Infra\obj\Debug\net8.0\refint\Delivery.Email.Infra.dll
+C:\Acadêmico\Cursos\PosTech\Projetos\Fase4\04\Delivery.Email\Delivery.Email.Infra\obj\Debug\net8.0\Delivery.Email.Infra.pdb
+C:\Acadêmico\Cursos\PosTech\Projetos\Fase4\04\Delivery.Email\Delivery.Email.Infra\obj\Debug\net8.0\ref\Delivery.Email.Infra.dll
+>>>>>>> 28ebd5f30ff01dffc3dcddfaaa8f27897542d4cc

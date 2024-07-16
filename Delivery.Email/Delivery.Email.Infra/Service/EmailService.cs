@@ -2,11 +2,6 @@
 using Delivery.Email.Infra.Connections;
 using Microsoft.Extensions.Options;
 using MongoDB.Driver;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Delivery.Email.Infra.Service
 {
@@ -14,10 +9,9 @@ namespace Delivery.Email.Infra.Service
     {
         private readonly IMongoCollection<PessoaFisica> _EmailCollection;
 
-        public EmailService(IOptions<BookStoreDatabaseSettings> EmailDatabaseSettings)
+        public EmailService(IMongoClient client, IOptions<BookStoreDatabaseSettings> EmailDatabaseSettings)
         {
-            var mongoDatabase = new MongoClient(EmailDatabaseSettings.Value.ConnectionString)
-                .GetDatabase(EmailDatabaseSettings.Value.DatabaseName); 
+            var mongoDatabase = client.GetDatabase(EmailDatabaseSettings.Value.DatabaseName);
 
             _EmailCollection = mongoDatabase.GetCollection<PessoaFisica>(
                 EmailDatabaseSettings.Value.BooksCollectionName);

@@ -1,12 +1,18 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "Bm0qTAuCJL4=",
   "success": true,
   "projectFilePath": "D:\\FIAP\\FIAP\\Delivery.Email\\Delivery.Email.Core\\Delivery.Email.Core.csproj",
+=======
+  "dgSpecHash": "zJAriFOeEk/l7oTySb4RBeATmF+qtPA20sB7vaxqixejU1NPTcJX8r3YLbcuBhRKOSGv0JEkyQGX1pikcLYMDA==",
+  "success": true,
+  "projectFilePath": "C:\\Acadêmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email.Core\\Delivery.Email.Core.csproj",
+>>>>>>> 28ebd5f30ff01dffc3dcddfaaa8f27897542d4cc
   "expectedPackageFiles": [
-    "C:\\Users\\julia\\.nuget\\packages\\mongodb.bson\\2.23.1\\mongodb.bson.2.23.1.nupkg.sha512",
-    "C:\\Users\\julia\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
-    "C:\\Users\\julia\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+    "C:\\Users\\julio.cruz\\.nuget\\packages\\mongodb.bson\\2.23.1\\mongodb.bson.2.23.1.nupkg.sha512",
+    "C:\\Users\\julio.cruz\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\julio.cruz\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

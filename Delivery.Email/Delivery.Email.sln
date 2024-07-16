@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delivery.Email.Core", "Deli
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delivery.Email.Infra", "Delivery.Email.Infra\Delivery.Email.Infra.csproj", "{C460C7E3-0DC2-4DD1-A209-1C2019C19397}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delivery.Email.Infra.Tests", "Delivery.Email.Infra.Tests\Delivery.Email.Infra.Tests.csproj", "{45AC0DA3-B3E9-4AB9-A794-07FFB80DCDC7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C460C7E3-0DC2-4DD1-A209-1C2019C19397}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C460C7E3-0DC2-4DD1-A209-1C2019C19397}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C460C7E3-0DC2-4DD1-A209-1C2019C19397}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45AC0DA3-B3E9-4AB9-A794-07FFB80DCDC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45AC0DA3-B3E9-4AB9-A794-07FFB80DCDC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45AC0DA3-B3E9-4AB9-A794-07FFB80DCDC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45AC0DA3-B3E9-4AB9-A794-07FFB80DCDC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
