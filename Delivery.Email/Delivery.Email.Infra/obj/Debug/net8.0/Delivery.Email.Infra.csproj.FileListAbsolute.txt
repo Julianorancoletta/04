@@ -47,3 +47,19 @@ C:\Acadêmico\Cursos\PosTech\Projetos\Fase4\04\Delivery.Email\Delivery.Email.Inf
 C:\Acadêmico\Cursos\PosTech\Projetos\Fase4\04\Delivery.Email\Delivery.Email.Infra\obj\Debug\net8.0\Delivery.Email.Infra.pdb
 C:\Acadêmico\Cursos\PosTech\Projetos\Fase4\04\Delivery.Email\Delivery.Email.Infra\obj\Debug\net8.0\ref\Delivery.Email.Infra.dll
 >>>>>>> 28ebd5f30ff01dffc3dcddfaaa8f27897542d4cc
+D:\Projects\FIAP\Delivery.Email\Delivery.Email.Infra\bin\Debug\net8.0\Delivery.Email.Infra.deps.json
+D:\Projects\FIAP\Delivery.Email\Delivery.Email.Infra\bin\Debug\net8.0\Delivery.Email.Infra.dll
+D:\Projects\FIAP\Delivery.Email\Delivery.Email.Infra\bin\Debug\net8.0\Delivery.Email.Infra.pdb
+D:\Projects\FIAP\Delivery.Email\Delivery.Email.Infra\bin\Debug\net8.0\Delivery.Email.Core.dll
+D:\Projects\FIAP\Delivery.Email\Delivery.Email.Infra\bin\Debug\net8.0\Delivery.Email.Core.pdb
+D:\Projects\FIAP\Delivery.Email\Delivery.Email.Infra\obj\Debug\net8.0\Delivery.Email.Infra.csproj.AssemblyReference.cache
+D:\Projects\FIAP\Delivery.Email\Delivery.Email.Infra\obj\Debug\net8.0\Delivery.Email.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\FIAP\Delivery.Email\Delivery.Email.Infra\obj\Debug\net8.0\Delivery.Email.Infra.AssemblyInfoInputs.cache
+D:\Projects\FIAP\Delivery.Email\Delivery.Email.Infra\obj\Debug\net8.0\Delivery.Email.Infra.AssemblyInfo.cs
+D:\Projects\FIAP\Delivery.Email\Delivery.Email.Infra\obj\Debug\net8.0\Delivery.Email.Infra.csproj.CoreCompileInputs.cache
+D:\Projects\FIAP\Delivery.Email\Delivery.Email.Infra\obj\Debug\net8.0\Delivery.Email.Infra.sourcelink.json
+D:\Projects\FIAP\Delivery.Email\Delivery.Email.Infra\obj\Debug\net8.0\Delivery.3FB8EDD0.Up2Date
+D:\Projects\FIAP\Delivery.Email\Delivery.Email.Infra\obj\Debug\net8.0\Delivery.Email.Infra.dll
+D:\Projects\FIAP\Delivery.Email\Delivery.Email.Infra\obj\Debug\net8.0\refint\Delivery.Email.Infra.dll
+D:\Projects\FIAP\Delivery.Email\Delivery.Email.Infra\obj\Debug\net8.0\Delivery.Email.Infra.pdb
+D:\Projects\FIAP\Delivery.Email\Delivery.Email.Infra\obj\Debug\net8.0\ref\Delivery.Email.Infra.dll

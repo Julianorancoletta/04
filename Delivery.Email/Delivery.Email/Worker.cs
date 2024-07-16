@@ -2,10 +2,10 @@
 using System.Text;
 using Delivery.Email.Worker.Application.Interfaces;
 using System.Text.Json;
-using Delivery.Email.Core.Domain;
-using Delivery.Email.Infra.Service;
 using Serilog;
-using Delivery.Email.Worker.Application;
+using Delivery.Email.Infra.Service;
+using Delivery.Email.Core.Domain;
+
 
 namespace Delivery.Email.Worker;
 

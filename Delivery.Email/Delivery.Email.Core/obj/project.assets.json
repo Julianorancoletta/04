@@ -123,37 +123,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\julio.cruz\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\julia\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "D:\\FIAP\\FIAP\\Delivery.Email\\Delivery.Email.Core\\Delivery.Email.Core.csproj",
+      "projectUniqueName": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email.Core\\Delivery.Email.Core.csproj",
       "projectName": "Delivery.Email.Core",
-      "projectPath": "D:\\FIAP\\FIAP\\Delivery.Email\\Delivery.Email.Core\\Delivery.Email.Core.csproj",
+      "projectPath": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email.Core\\Delivery.Email.Core.csproj",
       "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
-      "outputPath": "D:\\FIAP\\FIAP\\Delivery.Email\\Delivery.Email.Core\\obj\\",
-=======
-      "projectUniqueName": "C:\\Acadêmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email.Core\\Delivery.Email.Core.csproj",
-      "projectName": "Delivery.Email.Core",
-      "projectPath": "C:\\Acadêmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email.Core\\Delivery.Email.Core.csproj",
-      "packagesPath": "C:\\Users\\julio.cruz\\.nuget\\packages\\",
-      "outputPath": "C:\\Acadêmico\\Cursos\\PosTech\\Projetos\\Fase4\\04\\Delivery.Email\\Delivery.Email.Core\\obj\\",
->>>>>>> 28ebd5f30ff01dffc3dcddfaaa8f27897542d4cc
+      "outputPath": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email.Core\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\julio.cruz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -198,11 +188,7 @@
             "privateAssets": "all"
           }
         },
-<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400-preview.0.24324.5/PortableRuntimeIdentifierGraph.json"
-=======
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
->>>>>>> 28ebd5f30ff01dffc3dcddfaaa8f27897542d4cc
       }
     }
   }

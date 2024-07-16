@@ -38,3 +38,16 @@ C:\Acadêmico\Cursos\PosTech\Projetos\Fase4\04\Delivery.Email\Delivery.Email.Cor
 C:\Acadêmico\Cursos\PosTech\Projetos\Fase4\04\Delivery.Email\Delivery.Email.Core\obj\Debug\net8.0\Delivery.Email.Core.pdb
 C:\Acadêmico\Cursos\PosTech\Projetos\Fase4\04\Delivery.Email\Delivery.Email.Core\obj\Debug\net8.0\ref\Delivery.Email.Core.dll
 >>>>>>> 28ebd5f30ff01dffc3dcddfaaa8f27897542d4cc
+D:\Projects\FIAP\Delivery.Email\Delivery.Email.Core\bin\Debug\net8.0\Delivery.Email.Core.deps.json
+D:\Projects\FIAP\Delivery.Email\Delivery.Email.Core\bin\Debug\net8.0\Delivery.Email.Core.dll
+D:\Projects\FIAP\Delivery.Email\Delivery.Email.Core\bin\Debug\net8.0\Delivery.Email.Core.pdb
+D:\Projects\FIAP\Delivery.Email\Delivery.Email.Core\obj\Debug\net8.0\Delivery.Email.Core.csproj.AssemblyReference.cache
+D:\Projects\FIAP\Delivery.Email\Delivery.Email.Core\obj\Debug\net8.0\Delivery.Email.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\FIAP\Delivery.Email\Delivery.Email.Core\obj\Debug\net8.0\Delivery.Email.Core.AssemblyInfoInputs.cache
+D:\Projects\FIAP\Delivery.Email\Delivery.Email.Core\obj\Debug\net8.0\Delivery.Email.Core.AssemblyInfo.cs
+D:\Projects\FIAP\Delivery.Email\Delivery.Email.Core\obj\Debug\net8.0\Delivery.Email.Core.csproj.CoreCompileInputs.cache
+D:\Projects\FIAP\Delivery.Email\Delivery.Email.Core\obj\Debug\net8.0\Delivery.Email.Core.sourcelink.json
+D:\Projects\FIAP\Delivery.Email\Delivery.Email.Core\obj\Debug\net8.0\Delivery.Email.Core.dll
+D:\Projects\FIAP\Delivery.Email\Delivery.Email.Core\obj\Debug\net8.0\refint\Delivery.Email.Core.dll
+D:\Projects\FIAP\Delivery.Email\Delivery.Email.Core\obj\Debug\net8.0\Delivery.Email.Core.pdb
+D:\Projects\FIAP\Delivery.Email\Delivery.Email.Core\obj\Debug\net8.0\ref\Delivery.Email.Core.dll
