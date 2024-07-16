@@ -26,3 +26,5 @@ Caso de Uso:
 
 Banco de dados: 
 Será utilizado o MongoDB por questões da velocidade e para simplificar a modelagem do banco que futuramente poderá conter diversas ramificações filhas de tabelas já existentes.
+
+Para Rodar os projetos docker compose -f "docker-compose.yml" up -d --build 
