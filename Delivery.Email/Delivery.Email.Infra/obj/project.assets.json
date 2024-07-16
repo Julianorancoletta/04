@@ -965,11 +965,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email.Infra\\Delivery.Email.Infra.csproj",
+      "projectUniqueName": "D:\\FIAP\\FIAP\\Delivery.Email\\Delivery.Email.Infra\\Delivery.Email.Infra.csproj",
       "projectName": "Delivery.Email.Infra",
-      "projectPath": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email.Infra\\Delivery.Email.Infra.csproj",
+      "projectPath": "D:\\FIAP\\FIAP\\Delivery.Email\\Delivery.Email.Infra\\Delivery.Email.Infra.csproj",
       "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email.Infra\\obj\\",
+      "outputPath": "D:\\FIAP\\FIAP\\Delivery.Email\\Delivery.Email.Infra\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -987,8 +987,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email.Core\\Delivery.Email.Core.csproj": {
-              "projectPath": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email.Core\\Delivery.Email.Core.csproj"
+            "D:\\FIAP\\FIAP\\Delivery.Email\\Delivery.Email.Core\\Delivery.Email.Core.csproj": {
+              "projectPath": "D:\\FIAP\\FIAP\\Delivery.Email\\Delivery.Email.Core\\Delivery.Email.Core.csproj"
             }
           }
         }
@@ -1033,7 +1033,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400-preview.0.24324.5/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

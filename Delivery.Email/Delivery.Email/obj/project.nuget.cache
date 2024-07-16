@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7sNE+uaPWvM=",
+  "dgSpecHash": "hxJm/mBN/s8=",
   "success": true,
-  "projectFilePath": "D:\\Projects\\FIAP\\Delivery.Email\\Delivery.Email\\Delivery.Email.Worker.csproj",
+  "projectFilePath": "D:\\FIAP\\FIAP\\Delivery.Email\\Delivery.Email\\Delivery.Email.Worker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\julia\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\julia\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

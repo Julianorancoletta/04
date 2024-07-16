@@ -1,4 +1,5 @@
-﻿using MongoDB.Bson;
+﻿using Delivery.Email.Infra.Repositorio;
+using MongoDB.Bson;
 using MongoDB.Bson.Serialization.Attributes;
 
 namespace Delivery.Email.Core.Domain
@@ -12,6 +13,8 @@ namespace Delivery.Email.Core.Domain
 
         public string nomeCompleto { get; set; } = null!;
 
+        public string CPF { get; set; }
+
         public DateTime dataNascimento { get; set; }
 
         public string email { get; set; } = null!;
@@ -19,12 +22,5 @@ namespace Delivery.Email.Core.Domain
         public Endereco DadosEndereco { get; set; }
     }
 
-    public class Endereco
-    {
-        public string Rua { get; set; }
-        public string Bairro { get; set; }
-        public int NumeroResidencia { get; set; }
-        public string Complemento { get; set; }
-        public int CEP { get; set; }
-    }
+
 }

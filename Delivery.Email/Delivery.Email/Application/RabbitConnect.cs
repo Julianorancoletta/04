@@ -1,5 +1,5 @@
-﻿using Delivery.Email.Worker.Application.Interfaces;
-using Delivery.Email.Worker.Configuration;
+﻿using Delivery.Email.Core.Configuration;
+using Delivery.Email.Worker.Application.Interfaces;
 using Microsoft.Extensions.Options;
 using RabbitMQ.Client;
 

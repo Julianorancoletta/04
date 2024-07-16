@@ -654,7 +654,10 @@
           "MongoDB.Bson": "2.23.1"
         },
         "runtime": {
-          "Delivery.Email.Core.dll": {}
+          "Delivery.Email.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Delivery.Email.Infra/1.0.0": {
@@ -664,7 +667,10 @@
           "MongoDB.Driver": "2.23.1"
         },
         "runtime": {
-          "Delivery.Email.Infra.dll": {}
+          "Delivery.Email.Infra.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

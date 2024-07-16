@@ -11,14 +11,16 @@ namespace Delivery.Email.Worker;
 
 public class Worker : BackgroundService
 {
-    private readonly int _intervaloMensagemWorkerAtivo = 5;
+    private readonly int _intervaloMensagemWorkerAtivo = 10;
     private readonly IMessageBus _messageBus;
-    private readonly EmailService _booksService;
+    private readonly PessoaRepositorio _booksService;
+    private readonly IEmailService _emailService;
 
-    public Worker(IMessageBus messageBus, EmailService booksService)
+    public Worker(IMessageBus messageBus, PessoaRepositorio booksService, IEmailService emailService)
     {
         _messageBus = messageBus;
         _booksService = booksService;
+        _emailService = emailService;
     }
 
     protected override async Task ExecuteAsync(CancellationToken stoppingToken)
@@ -32,12 +34,20 @@ public class Worker : BackgroundService
 
     private async void Consumer_Received(object sender, BasicDeliverEventArgs e)
     {
+        try
+        {
+            var resposta = JsonSerializer.Deserialize<PessoaFisica>(e.Body.ToArray());
 
-        var resposta = JsonSerializer.Deserialize<PessoaFisica>(e.Body.ToArray());
+            await _booksService.CreateAsync(resposta);
+            _emailService.envio(resposta);
 
-        await _booksService.CreateAsync(resposta);
+            Log.Information($"[Nova mensagem | {DateTime.Now:yyyy-MM-dd HH:mm:ss}] " + Encoding.UTF8.GetString(e.Body.ToArray()));
+        }
+        catch (Exception ex)
+        {
+            Log.Error(ex.Message);
+        }
 
-        Log.Information($"[Nova mensagem | {DateTime.Now:yyyy-MM-dd HH:mm:ss}] " + Encoding.UTF8.GetString(e.Body.ToArray()));
     }
 }
 

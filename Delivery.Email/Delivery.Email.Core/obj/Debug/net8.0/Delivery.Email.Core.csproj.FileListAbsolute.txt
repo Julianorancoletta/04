@@ -10,3 +10,15 @@ D:\Projects\Delivery.Email\Delivery.Email.Core\obj\Debug\net8.0\refint\Delivery.
 D:\Projects\Delivery.Email\Delivery.Email.Core\obj\Debug\net8.0\Delivery.Email.Core.pdb
 D:\Projects\Delivery.Email\Delivery.Email.Core\obj\Debug\net8.0\ref\Delivery.Email.Core.dll
 D:\Projects\Delivery.Email\Delivery.Email.Core\obj\Debug\net8.0\Delivery.Email.Core.csproj.AssemblyReference.cache
+D:\FIAP\FIAP\Delivery.Email\Delivery.Email.Core\bin\Debug\net8.0\Delivery.Email.Core.deps.json
+D:\FIAP\FIAP\Delivery.Email\Delivery.Email.Core\bin\Debug\net8.0\Delivery.Email.Core.dll
+D:\FIAP\FIAP\Delivery.Email\Delivery.Email.Core\bin\Debug\net8.0\Delivery.Email.Core.pdb
+D:\FIAP\FIAP\Delivery.Email\Delivery.Email.Core\obj\Debug\net8.0\Delivery.Email.Core.csproj.AssemblyReference.cache
+D:\FIAP\FIAP\Delivery.Email\Delivery.Email.Core\obj\Debug\net8.0\Delivery.Email.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\FIAP\FIAP\Delivery.Email\Delivery.Email.Core\obj\Debug\net8.0\Delivery.Email.Core.AssemblyInfoInputs.cache
+D:\FIAP\FIAP\Delivery.Email\Delivery.Email.Core\obj\Debug\net8.0\Delivery.Email.Core.AssemblyInfo.cs
+D:\FIAP\FIAP\Delivery.Email\Delivery.Email.Core\obj\Debug\net8.0\Delivery.Email.Core.csproj.CoreCompileInputs.cache
+D:\FIAP\FIAP\Delivery.Email\Delivery.Email.Core\obj\Debug\net8.0\Delivery.Email.Core.dll
+D:\FIAP\FIAP\Delivery.Email\Delivery.Email.Core\obj\Debug\net8.0\refint\Delivery.Email.Core.dll
+D:\FIAP\FIAP\Delivery.Email\Delivery.Email.Core\obj\Debug\net8.0\Delivery.Email.Core.pdb
+D:\FIAP\FIAP\Delivery.Email\Delivery.Email.Core\obj\Debug\net8.0\ref\Delivery.Email.Core.dll

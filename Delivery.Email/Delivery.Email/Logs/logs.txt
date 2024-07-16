@@ -1467,3 +1467,25 @@ RabbitMQ.Client.Exceptions.OperationInterruptedException: The AMQP operation was
 [20:02:20 Information] Hosting environment: "Development"
 [20:02:20 Information] Content root path: "D:\Projects\Delivery.Email\Delivery.Email"
 [20:02:20 Information] [Nova mensagem | 2024-05-13 20:02:20] {"NomeCompleto":"teste 1","DataNascimento":"2024-05-13T23:01:17.238Z","Email":"teste@teste.com.br","DadosEndereco":{"Rua":"rua teste","Bairro":"teste","NumeroResidencia":100,"Complemento":"casa","CEP":13203531}}
+[12:21:18 Information] Application started. Press Ctrl+C to shut down.
+[12:21:18 Information] Hosting environment: "Development"
+[12:21:18 Information] Content root path: "D:\FIAP\FIAP\Delivery.Email\Delivery.Email"
+[12:21:38 Information] Application started. Press Ctrl+C to shut down.
+[12:21:38 Information] Hosting environment: "Development"
+[12:21:38 Information] Content root path: "D:\FIAP\FIAP\Delivery.Email\Delivery.Email"
+[17:43:49 Information] Application started. Press Ctrl+C to shut down.
+[17:43:49 Information] Hosting environment: "Development"
+[17:43:49 Information] Content root path: "D:\FIAP\FIAP\Delivery.Email\Delivery.Email"
+[17:58:17 Information] Application started. Press Ctrl+C to shut down.
+[17:58:17 Information] Hosting environment: "Development"
+[17:58:17 Information] Content root path: "D:\FIAP\FIAP\Delivery.Email\Delivery.Email"
+[17:59:00 Information] Application started. Press Ctrl+C to shut down.
+[17:59:00 Information] Hosting environment: "Development"
+[17:59:00 Information] Content root path: "D:\FIAP\FIAP\Delivery.Email\Delivery.Email"
+[18:01:29 Information] Application started. Press Ctrl+C to shut down.
+[18:01:30 Information] Hosting environment: "Development"
+[18:01:30 Information] Content root path: "D:\FIAP\FIAP\Delivery.Email\Delivery.Email"
+[18:02:17 Information] Application started. Press Ctrl+C to shut down.
+[18:02:17 Information] Hosting environment: "Development"
+[18:02:17 Information] Content root path: "D:\FIAP\FIAP\Delivery.Email\Delivery.Email"
+[18:03:46 Information] [Nova mensagem | 2024-07-15 18:03:46] {"Id":null,"nomeCompleto":"teste","dataNascimento":"2024-07-15T21:03:32.873Z","email":"teste","DadosEndereco":{"Rua":"teste","Bairro":"string","NumeroResidencia":0,"Complemento":"string","CEP":0}}
